@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\obj\Debug\Zadanie10Lab.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\obj\Debug\Zadanie10Lab.Form1.resources
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\obj\Debug\Zadanie10Lab.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\obj\Debug\Zadanie10Lab.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\obj\Debug\Zadanie10Lab.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\bin\Debug\Zadanie10Lab.exe.config
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\bin\Debug\Zadanie10Lab.exe
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\bin\Debug\Zadanie10Lab.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\obj\Debug\Zadanie10Lab.exe
+C:\Users\admin\Documents\Praktyki\Zadanie10Lab\Zadanie10Lab\obj\Debug\Zadanie10Lab.pdb
