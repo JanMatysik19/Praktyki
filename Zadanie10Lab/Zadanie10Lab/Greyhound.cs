@@ -15,16 +15,35 @@ namespace Zadanie10Lab
         public int Location = 0;
         public Random MyRandom;
 
+        public Greyhound(Random random, PictureBox pictureBox, int startingPostion, PictureBox raceTrackPictureBox)
+        {
+            MyRandom = random;
+            MyPictureBox = pictureBox;
+            StartingPosition = startingPostion;
+            RaceTrackLength = raceTrackPictureBox.Width - pictureBox.Width;
+        }
 
 
         public bool Run()
         {
+            Location += (int) MyRandom.Next(1, 4);
+            MyPictureBox.Left = StartingPosition + Location;
 
+            if(MyPictureBox.Left >= RaceTrackLength - 75)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public void TakeStartingPosition()
         {
+            Location = 0;
 
+            MyPictureBox.Left = StartingPosition + Location;
         }
 
     }
