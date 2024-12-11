@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FAA88-C2EF-456C-A7FD-0336A8310C45}|Zadanie7\\Zadanie7.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie7\\zadanie7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74FAA88-C2EF-456C-A7FD-0336A8310C45}|Zadanie7\\Zadanie7.csproj|solutionrelative:zadanie7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FAA88-C2EF-456C-A7FD-0336A8310C45}|Zadanie7\\Zadanie7.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie7\\zadanie7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B74FAA88-C2EF-456C-A7FD-0336A8310C45}|Zadanie7\\Zadanie7.csproj|solutionrelative:zadanie7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FAA88-C2EF-456C-A7FD-0336A8310C45}|Zadanie7\\Zadanie7.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie7\\zadanie7\\menumaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74FAA88-C2EF-456C-A7FD-0336A8310C45}|Zadanie7\\Zadanie7.csproj|solutionrelative:zadanie7\\menumaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie7\\Zadanie7\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie7\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie7\\Zadanie7\\Form1.cs",
+              "RelativeToolTip": "Zadanie7\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:08:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuMaker.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie7\\Zadanie7\\MenuMaker.cs",
+              "RelativeDocumentMoniker": "Zadanie7\\MenuMaker.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie7\\Zadanie7\\MenuMaker.cs",
+              "RelativeToolTip": "Zadanie7\\MenuMaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:59:20.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie7\\Zadanie7\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie7\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie7\\Zadanie7\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Zadanie7\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:58:23.193Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
