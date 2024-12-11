@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\bin\Debug\Zadanie11.exe.config
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\bin\Debug\Zadanie11.exe
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\bin\Debug\Zadanie11.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\obj\Debug\Zadanie11.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\obj\Debug\Zadanie11.Form1.resources
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\obj\Debug\Zadanie11.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\obj\Debug\Zadanie11.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\obj\Debug\Zadanie11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\obj\Debug\Zadanie11.exe
+C:\Users\admin\Documents\Praktyki\Zadanie11\Zadanie11\obj\Debug\Zadanie11.pdb
