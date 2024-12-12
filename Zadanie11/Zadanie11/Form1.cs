@@ -27,19 +27,19 @@ namespace Zadanie11
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
-            dinnerParty.NumerOfPeople = (int) numericUpDown1.Value;
+            dinnerParty.NumberOfPeople = (int) numericUpDown1.Value;
             DisplayDinnerPartyCost();
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            dinnerParty.FancyOption = checkBox1.Checked;
+            dinnerParty.FancyDecorations = checkBox1.Checked;
             DisplayDinnerPartyCost();
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
-            dinnerParty.HealtyhOption = checkBox2.Checked;
+            dinnerParty.HealthyOption = checkBox2.Checked;
             DisplayDinnerPartyCost();
         }
 
