@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\zdanie16\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|solutionrelative:zdanie16\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|c:\\users\\admin\\documents\\praktyki\\zdanie16\\zdanie16\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|solutionrelative:zdanie16\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|c:\\users\\admin\\documents\\praktyki\\zdanie16\\zdanie16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|solutionrelative:zdanie16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|c:\\users\\admin\\documents\\praktyki\\zdanie16\\zdanie16\\bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|solutionrelative:zdanie16\\bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\zdanie16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45A4D3AC-6AE9-4BCA-97FC-20527CD577B1}|Zdanie16\\Zdanie16.csproj|solutionrelative:zdanie16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bee.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Bee.cs",
+              "RelativeDocumentMoniker": "Zdanie16\\Bee.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Bee.cs",
+              "RelativeToolTip": "Zdanie16\\Bee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:07:29.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Form1.cs",
+              "RelativeDocumentMoniker": "Zdanie16\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Form1.cs",
+              "RelativeToolTip": "Zdanie16\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:38:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Queen.cs",
+              "RelativeDocumentMoniker": "Zdanie16\\Queen.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Queen.cs",
+              "RelativeToolTip": "Zdanie16\\Queen.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:21:11.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Worker.cs",
+              "RelativeDocumentMoniker": "Zdanie16\\Worker.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Worker.cs",
+              "RelativeToolTip": "Zdanie16\\Worker.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:16:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Form1.cs",
+              "RelativeDocumentMoniker": "Zdanie16\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zdanie16\\Zdanie16\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Zdanie16\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:15:06.252Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
