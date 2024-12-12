@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie18\\zadanie18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|solutionrelative:zadanie18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie18\\zadanie18\\iclown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|solutionrelative:zadanie18\\iclown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClown.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\IClown.cs",
+              "RelativeDocumentMoniker": "Zadanie18\\IClown.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\IClown.cs",
+              "RelativeToolTip": "Zadanie18\\IClown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:02:17.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie18\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\Program.cs",
+              "RelativeToolTip": "Zadanie18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:57:44.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
