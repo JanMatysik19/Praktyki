@@ -10,67 +10,104 @@ namespace Zadanie11
 
     class DinnerParty
     {
-        public int NumerOfPeople;
-        public double CostOfBeveragesPerPerson;
-        public double CostOfDecorations;
-        Label CostLabel;
+        private bool healtyOption;
+        public bool HealtyhOption
+        {
+            set
+            {
+                healtyOption = value;
+            }
+        }
+        
+        private bool fancyOption;
+        public bool FancyOption
+        {
+            set
+            {
+                fancyOption = value;
+            }
+        }
+
+
+        private int numberOfPeople;
+        public int NumerOfPeople
+        {
+            get
+            {
+                return numberOfPeople;
+            }
+            set
+            {
+                numberOfPeople = value;
+            }
+        }
+        public decimal Cost
+        {
+            get
+            {
+                return CalculateCost();
+            }
+        }
+
+
+        private decimal CostOfBeveragesPerPerson
+        {
+            get
+            {
+                return SetHealthyOption(healtyOption);
+            }
+        }
+        private decimal CostOfDecorations
+        {
+            get
+            {
+                return CalculateCostOfDecorations(fancyOption);
+            }
+        }
+        
+        
 
 
 
-        public DinnerParty(Label CostLabel, int NumerOfPeople = 10, double CostOfBeveragesPerPerson = 20.0D, double CostOfDecorations = 15.0D)
+        public DinnerParty(int NumerOfPeople = 10, bool healthyOption = false, bool fancyOption = true)
         {
             this.NumerOfPeople = NumerOfPeople;
-            this.CostOfBeveragesPerPerson = CostOfBeveragesPerPerson;
-            
-            CostOfDecorations = CostOfDecorations * NumerOfPeople;
+            this.fancyOption = fancyOption;
+            this.healtyOption = healthyOption;
 
-            if (CostOfDecorations == 15.0D * NumerOfPeople) CostOfDecorations += 50;
-            else CostOfDecorations += 30;
+            SetHealthyOption(healthyOption);
+            CalculateCostOfDecorations(fancyOption);
 
-            this.CostOfDecorations = CostOfDecorations;
-
-            this.CostLabel = CostLabel;
         }
 
-        public void SetHealthyOption(bool value)
+        private decimal SetHealthyOption(bool value)
         {
-            if(value)
-            {
-                CostOfBeveragesPerPerson = 5.0D;
-            }
-            else
-            {
-                CostOfBeveragesPerPerson = 20.0D;
-            }
+            decimal costOfBeveragesPerPerson;
+
+            if(value) costOfBeveragesPerPerson = 5.0M;
+            else costOfBeveragesPerPerson = 20.0M;
+
+            return costOfBeveragesPerPerson;
         }
 
-        public void CalculateCostOfDecorations(bool value)
+        private decimal CalculateCostOfDecorations(bool value)
         {
-            if(value)
-            {
-                CostOfDecorations = 15.0D * NumerOfPeople + 50.0D;
-            }
-            else
-            {
-                CostOfDecorations = 7.5D * NumerOfPeople + 30.0D;
-            }
+            decimal costOfDecorations;
+            if(value) costOfDecorations = 15.0M * numberOfPeople + 50.0M;
+            else costOfDecorations = 7.5M * numberOfPeople + 30.0M;
+
+            return costOfDecorations;
         }
 
-        public double CalculateCost()
+        private decimal CalculateCost()
         {
-            double Cost = NumerOfPeople * (25.0D + CostOfBeveragesPerPerson) + CostOfDecorations;
+            decimal cost = numberOfPeople * (25.0M + CostOfBeveragesPerPerson) + CostOfDecorations;
 
-            if (CostOfBeveragesPerPerson == 5.0D)
-            {
-                Cost *= 0.95;
-            }
+            if (CostOfBeveragesPerPerson == 5.0M) cost *= 0.95M;
 
-            return Cost;
-        }
+            if (numberOfPeople > 12) cost += 100M;
 
-        public void DisplayDinnerPartyCost()
-        {
-            CostLabel.Text = CalculateCost() + " zł";
+            return cost;
         }
     }
 }
