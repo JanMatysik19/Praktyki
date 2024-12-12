@@ -18,6 +18,7 @@ namespace Zdanie16
             shiftNumber = 0;
         }
 
+        private void DefendTheHive(IStingPatrol patroller) { }
 
         public bool AssignWork(string work, int shifts)
         {
