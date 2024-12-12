@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|solutionrelative:zadanie18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie18\\zadanie18\\scaryscary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|solutionrelative:zadanie18\\scaryscary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie18\\zadanie18\\iclown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|solutionrelative:zadanie18\\iclown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie18\\zadanie18\\funnyfunny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|solutionrelative:zadanie18\\funnyfunny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie18\\zadanie18\\iscaryclown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020B6CA0-593D-4F6A-B7B6-93C3CF654706}|Zadanie18\\Zadanie18.csproj|solutionrelative:zadanie18\\iscaryclown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,12 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ScaryScary.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\ScaryScary.cs",
+              "RelativeDocumentMoniker": "Zadanie18\\ScaryScary.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\ScaryScary.cs",
+              "RelativeToolTip": "Zadanie18\\ScaryScary.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:39:14.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FunnyFunny.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\FunnyFunny.cs",
+              "RelativeDocumentMoniker": "Zadanie18\\FunnyFunny.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\FunnyFunny.cs",
+              "RelativeToolTip": "Zadanie18\\FunnyFunny.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:32:33.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScaryClown.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\IScaryClown.cs",
+              "RelativeDocumentMoniker": "Zadanie18\\IScaryClown.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\IScaryClown.cs",
+              "RelativeToolTip": "Zadanie18\\IScaryClown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:31:11.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IClown.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\IClown.cs",
               "RelativeDocumentMoniker": "Zadanie18\\IClown.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\IClown.cs",
               "RelativeToolTip": "Zadanie18\\IClown.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T13:02:17.503Z",
               "EditorCaption": ""
@@ -45,7 +96,7 @@
               "RelativeDocumentMoniker": "Zadanie18\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie18\\Zadanie18\\Program.cs",
               "RelativeToolTip": "Zadanie18\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T12:57:44.098Z",
               "EditorCaption": ""

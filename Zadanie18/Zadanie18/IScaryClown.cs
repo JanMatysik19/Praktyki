@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace Zadanie18
 {
-    public interface IClown
+    interface IScaryClown : IClown
     {
-        public void Honk();
-
-        public string FunnyThingIHave {  get; }
-
+        string ScaryThingIHave {  get; }
+        void ScareLittleChildren();
     }
 }
