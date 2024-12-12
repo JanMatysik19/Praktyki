@@ -17,32 +17,31 @@ namespace Zadanie11
         {
             InitializeComponent();
 
-            dinnerParty = new DinnerParty(label3);
-            dinnerParty.SetHealthyOption(false);
-            dinnerParty.CalculateCostOfDecorations(true);
-            dinnerParty.DisplayDinnerPartyCost();
+            dinnerParty = new DinnerParty((int)numericUpDown1.Value, checkBox2.Checked, checkBox1.Checked);
+            DisplayDinnerPartyCost();
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
             dinnerParty.NumerOfPeople = (int) numericUpDown1.Value;
-            dinnerParty.CalculateCostOfDecorations(checkBox1.Checked);
-            dinnerParty.SetHealthyOption(checkBox2.Checked);
-            dinnerParty.DisplayDinnerPartyCost();
+            DisplayDinnerPartyCost();
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            dinnerParty.CalculateCostOfDecorations(checkBox1.Checked);
-            dinnerParty.SetHealthyOption(checkBox2.Checked);
-            dinnerParty.DisplayDinnerPartyCost();
+            dinnerParty.FancyOption = checkBox1.Checked;
+            DisplayDinnerPartyCost();
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
-            dinnerParty.CalculateCostOfDecorations(checkBox1.Checked);
-            dinnerParty.SetHealthyOption(checkBox2.Checked);
-            dinnerParty.DisplayDinnerPartyCost();
+            dinnerParty.HealtyhOption = checkBox2.Checked;
+            DisplayDinnerPartyCost();
+        }
+
+        public void DisplayDinnerPartyCost()
+        {
+            label3.Text = dinnerParty.Cost.ToString();
         }
     }
 }
