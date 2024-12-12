@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\zadanie11\\birthdayparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|solutionrelative:zadanie11\\birthdayparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie11\\zadanie11\\dinnerparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|solutionrelative:zadanie11\\dinnerparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie11\\zadanie11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\zadanie11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|solutionrelative:zadanie11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie11\\zadanie11\\birthdayparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|solutionrelative:zadanie11\\birthdayparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie11\\zadanie11\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|solutionrelative:zadanie11\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4253B7C-0FC0-49BC-9DDD-F84ED9ABB191}|Zadanie11\\Zadanie11.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\zadanie11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,46 +38,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Party.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\Party.cs",
+              "RelativeDocumentMoniker": "Zadanie11\\Party.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\Party.cs",
+              "RelativeToolTip": "Zadanie11\\Party.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:42:45.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\Form1.cs",
               "RelativeDocumentMoniker": "Zadanie11\\Form1.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\Form1.cs",
               "RelativeToolTip": "Zadanie11\\Form1.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:46:05.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DinnerParty.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\DinnerParty.cs",
               "RelativeDocumentMoniker": "Zadanie11\\DinnerParty.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\DinnerParty.cs",
-              "RelativeToolTip": "Zadanie11\\DinnerParty.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGsAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\DinnerParty.cs*",
+              "RelativeToolTip": "Zadanie11\\DinnerParty.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:50:20.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BirthdayParty.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\BirthdayParty.cs",
               "RelativeDocumentMoniker": "Zadanie11\\BirthdayParty.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\BirthdayParty.cs",
               "RelativeToolTip": "Zadanie11\\BirthdayParty.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:10:07.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie11\\Zadanie11\\Form1.cs",
               "RelativeDocumentMoniker": "Zadanie11\\Form1.cs",
