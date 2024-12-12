@@ -105,6 +105,8 @@ namespace Zadanie11
 
             if (CostOfBeveragesPerPerson == 5.0M) cost *= 0.95M;
 
+            if (numberOfPeople > 12) cost += 100M;
+
             return cost;
         }
     }
