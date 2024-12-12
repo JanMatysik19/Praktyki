@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\obj\Debug\Zadanie14.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\obj\Debug\Zadanie14.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\obj\Debug\Zadanie14.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\obj\Debug\Zadanie14.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\bin\Debug\Zadanie14.exe.config
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\bin\Debug\Zadanie14.exe
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\bin\Debug\Zadanie14.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\obj\Debug\Zadanie14.exe
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\obj\Debug\Zadanie14.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie14\Zadanie14\obj\Debug\Zadanie14.Form1.resources

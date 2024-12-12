@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie14\\zadanie14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|solutionrelative:zadanie14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie14\\zadanie14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|solutionrelative:zadanie14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie14\\zadanie14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|solutionrelative:zadanie14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie14\\zadanie14\\locksmith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|solutionrelative:zadanie14\\locksmith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie14\\zadanie14\\jewelthief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|solutionrelative:zadanie14\\jewelthief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie14\\zadanie14\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|solutionrelative:zadanie14\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie14\\zadanie14\\safe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|solutionrelative:zadanie14\\safe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie14\\zadanie14\\jewels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828FD176-1196-44B2-8749-34C503B9657D}|Zadanie14\\Zadanie14.csproj|solutionrelative:zadanie14\\jewels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie14\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Program.cs",
+              "RelativeToolTip": "Zadanie14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:22:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie14\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Form1.cs",
+              "RelativeToolTip": "Zadanie14\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:13:33.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JewelThief.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\JewelThief.cs",
+              "RelativeDocumentMoniker": "Zadanie14\\JewelThief.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\JewelThief.cs",
+              "RelativeToolTip": "Zadanie14\\JewelThief.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:58:07.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Locksmith.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Locksmith.cs",
+              "RelativeDocumentMoniker": "Zadanie14\\Locksmith.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Locksmith.cs",
+              "RelativeToolTip": "Zadanie14\\Locksmith.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:57:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Owner.cs",
+              "RelativeDocumentMoniker": "Zadanie14\\Owner.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Owner.cs",
+              "RelativeToolTip": "Zadanie14\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:57:39.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Safe.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Safe.cs",
+              "RelativeDocumentMoniker": "Zadanie14\\Safe.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Safe.cs",
+              "RelativeToolTip": "Zadanie14\\Safe.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:57:28.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jewels.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Jewels.cs",
+              "RelativeDocumentMoniker": "Zadanie14\\Jewels.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Jewels.cs",
+              "RelativeToolTip": "Zadanie14\\Jewels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:57:20.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie14\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie14\\Zadanie14\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Zadanie14\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:55:27.366Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
