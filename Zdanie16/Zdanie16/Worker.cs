@@ -34,7 +34,7 @@ namespace Zdanie16
             return consumption;
         }
 
-        public Worker(string[] jobsICanDo, double mg = 3) : base(mg)
+        public Worker(string[] jobsICanDo = null, double mg = 3) : base(mg)
         {
             this.jobsICanDo = jobsICanDo;
             shiftsToWork = 0;
