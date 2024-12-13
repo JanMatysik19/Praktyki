@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie20\\zadanie20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|solutionrelative:zadanie20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie20\\zadanie20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|solutionrelative:zadanie20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie20\\zadanie20\\outsidewithdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|solutionrelative:zadanie20\\outsidewithdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie20\\zadanie20\\roomwithdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|solutionrelative:zadanie20\\roomwithdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie20\\zadanie20\\ihasexteriordoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|solutionrelative:zadanie20\\ihasexteriordoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie20\\zadanie20\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|solutionrelative:zadanie20\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie20\\zadanie20\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|solutionrelative:zadanie20\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie20\\zadanie20\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|solutionrelative:zadanie20\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie20\\zadanie20\\outside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C7BEAA-F924-466F-B0C1-2BAB733689A4}|Zadanie20\\Zadanie20.csproj|solutionrelative:zadanie20\\outside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Zadanie20\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Form1.Designer.cs",
+              "RelativeToolTip": "Zadanie20\\Form1.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAASwDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:42:21.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie20\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Form1.cs",
+              "RelativeToolTip": "Zadanie20\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:36:03.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomWithDoor.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\RoomWithDoor.cs",
+              "RelativeDocumentMoniker": "Zadanie20\\RoomWithDoor.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\RoomWithDoor.cs",
+              "RelativeToolTip": "Zadanie20\\RoomWithDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:58:31.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutsideWithDoor.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\OutsideWithDoor.cs",
+              "RelativeDocumentMoniker": "Zadanie20\\OutsideWithDoor.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\OutsideWithDoor.cs",
+              "RelativeToolTip": "Zadanie20\\OutsideWithDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:43:33.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHasExteriorDoor.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\IHasExteriorDoor.cs",
+              "RelativeDocumentMoniker": "Zadanie20\\IHasExteriorDoor.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\IHasExteriorDoor.cs",
+              "RelativeToolTip": "Zadanie20\\IHasExteriorDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:37:34.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Outside.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Outside.cs",
+              "RelativeDocumentMoniker": "Zadanie20\\Outside.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Outside.cs",
+              "RelativeToolTip": "Zadanie20\\Outside.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:30:38.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Room.cs",
+              "RelativeDocumentMoniker": "Zadanie20\\Room.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Room.cs",
+              "RelativeToolTip": "Zadanie20\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:30:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Location.cs",
+              "RelativeDocumentMoniker": "Zadanie20\\Location.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Location.cs",
+              "RelativeToolTip": "Zadanie20\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:30:22.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie20\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie20\\Zadanie20\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Zadanie20\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:29:09.452Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
