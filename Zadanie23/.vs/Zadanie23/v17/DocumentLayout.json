@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E034C064-2FF0-408E-9FD8-1CB5E90E705F}|Zadanie23\\Zadanie23.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie23\\zadanie23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034C064-2FF0-408E-9FD8-1CB5E90E705F}|Zadanie23\\Zadanie23.csproj|solutionrelative:zadanie23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034C064-2FF0-408E-9FD8-1CB5E90E705F}|Zadanie23\\Zadanie23.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie23\\zadanie23\\zadanie23.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E034C064-2FF0-408E-9FD8-1CB5E90E705F}|Zadanie23\\Zadanie23.csproj|solutionrelative:zadanie23\\zadanie23.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zadanie23",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie23\\Zadanie23\\Zadanie23.csproj",
+              "RelativeDocumentMoniker": "Zadanie23\\Zadanie23.csproj",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie23\\Zadanie23\\Zadanie23.csproj",
+              "RelativeToolTip": "Zadanie23\\Zadanie23.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T11:38:57.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie23\\Zadanie23\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie23\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie23\\Zadanie23\\Program.cs",
+              "RelativeToolTip": "Zadanie23\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:38:56.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
