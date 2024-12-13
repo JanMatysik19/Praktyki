@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\bin\Debug\Zadanie20.exe.config
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\bin\Debug\Zadanie20.exe
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\bin\Debug\Zadanie20.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\obj\Debug\Zadanie20.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\obj\Debug\Zadanie20.Form1.resources
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\obj\Debug\Zadanie20.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\obj\Debug\Zadanie20.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\obj\Debug\Zadanie20.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\obj\Debug\Zadanie20.exe
+C:\Users\admin\Documents\Praktyki\Zadanie20\Zadanie20\obj\Debug\Zadanie20.pdb
