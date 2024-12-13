@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Zadanie23",
+              "Title": "Zadanie23.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie23\\Zadanie23\\Zadanie23.csproj",
               "RelativeDocumentMoniker": "Zadanie23\\Zadanie23.csproj",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie23\\Zadanie23\\Zadanie23.csproj",
               "RelativeToolTip": "Zadanie23\\Zadanie23.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-13T11:38:57.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T11:38:57.03Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Zadanie23\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie23\\Zadanie23\\Program.cs",
               "RelativeToolTip": "Zadanie23\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T11:38:56.209Z",
               "EditorCaption": ""
