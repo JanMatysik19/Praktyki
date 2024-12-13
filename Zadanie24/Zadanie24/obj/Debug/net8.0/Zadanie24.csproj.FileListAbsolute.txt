@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\Zadanie24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\Zadanie24.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\Zadanie24.AssemblyInfo.cs
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\Zadanie24.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\Zadanie24.sourcelink.json
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\bin\Debug\net8.0\Zadanie24.exe
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\bin\Debug\net8.0\Zadanie24.deps.json
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\bin\Debug\net8.0\Zadanie24.runtimeconfig.json
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\bin\Debug\net8.0\Zadanie24.dll
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\bin\Debug\net8.0\Zadanie24.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\Zadanie24.dll
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\refint\Zadanie24.dll
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\Zadanie24.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\Zadanie24.genruntimeconfig.cache
+C:\Users\admin\Documents\Praktyki\Zadanie24\Zadanie24\obj\Debug\net8.0\ref\Zadanie24.dll
