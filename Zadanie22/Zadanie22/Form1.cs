@@ -19,11 +19,6 @@ namespace Zadanie22
             InitializeComponent();
 
             random = new Random();
-            
-
-            
-
-            
         }
 
         private void button1_Click(object sender, EventArgs e)
