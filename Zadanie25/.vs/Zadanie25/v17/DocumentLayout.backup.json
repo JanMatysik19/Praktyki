@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie25\\zadanie25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|solutionrelative:zadanie25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\Zadanie25\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie25\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\Zadanie25\\Program.cs",
+              "RelativeToolTip": "Zadanie25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:41:18.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
