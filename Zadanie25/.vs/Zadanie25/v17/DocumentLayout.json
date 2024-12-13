@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie25\\zadanie25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|solutionrelative:zadanie25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie25\\zadanie25\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|solutionrelative:zadanie25\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie25\\zadanie25\\cardcomparer_byvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|solutionrelative:zadanie25\\cardcomparer_byvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie25\\zadanie25\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95F9816-5E83-490B-AF97-848E2AB37B5C}|Zadanie25\\Zadanie25.csproj|solutionrelative:zadanie25\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardComparer_byValue.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\Zadanie25\\CardComparer_byValue.cs",
+              "RelativeDocumentMoniker": "Zadanie25\\CardComparer_byValue.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\Zadanie25\\CardComparer_byValue.cs",
+              "RelativeToolTip": "Zadanie25\\CardComparer_byValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:45:05.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suits.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\Zadanie25\\Suits.cs",
+              "RelativeDocumentMoniker": "Zadanie25\\Suits.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\Zadanie25\\Suits.cs",
+              "RelativeToolTip": "Zadanie25\\Suits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:44:06.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\Zadanie25\\Card.cs",
+              "RelativeDocumentMoniker": "Zadanie25\\Card.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\Zadanie25\\Card.cs",
+              "RelativeToolTip": "Zadanie25\\Card.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:43:49.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +79,7 @@
               "RelativeDocumentMoniker": "Zadanie25\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie25\\Zadanie25\\Program.cs",
               "RelativeToolTip": "Zadanie25\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T12:41:18.28Z",
               "EditorCaption": ""

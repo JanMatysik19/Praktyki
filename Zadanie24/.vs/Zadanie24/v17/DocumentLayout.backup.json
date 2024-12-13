@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie24\\zadanie24\\cardcomparer_byvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|solutionrelative:zadanie24\\cardcomparer_byvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie24\\zadanie24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|solutionrelative:zadanie24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie24\\zadanie24\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|solutionrelative:zadanie24\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie24\\zadanie24\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|solutionrelative:zadanie24\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie24\\zadanie24\\cardcomparer_byvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|solutionrelative:zadanie24\\cardcomparer_byvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie24\\zadanie24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0880B3-F148-497D-BE22-16233C36656A}|Zadanie24\\Zadanie24.csproj|solutionrelative:zadanie24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CardComparer_byValue.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie24\\Zadanie24\\CardComparer_byValue.cs",
               "RelativeDocumentMoniker": "Zadanie24\\CardComparer_byValue.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie24\\Zadanie24\\CardComparer_byValue.cs",
               "RelativeToolTip": "Zadanie24\\CardComparer_byValue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T12:27:57.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Suits.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie24\\Zadanie24\\Suits.cs",
               "RelativeDocumentMoniker": "Zadanie24\\Suits.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie24\\Zadanie24\\Card.cs",
               "RelativeDocumentMoniker": "Zadanie24\\Card.cs",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie24\\Zadanie24\\Program.cs",
               "RelativeDocumentMoniker": "Zadanie24\\Program.cs",

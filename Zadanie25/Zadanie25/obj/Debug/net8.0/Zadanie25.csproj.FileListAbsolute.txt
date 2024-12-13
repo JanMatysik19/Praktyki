@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\bin\Debug\net8.0\Zadanie25.exe
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\bin\Debug\net8.0\Zadanie25.deps.json
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\bin\Debug\net8.0\Zadanie25.runtimeconfig.json
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\bin\Debug\net8.0\Zadanie25.dll
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\bin\Debug\net8.0\Zadanie25.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\Zadanie25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\Zadanie25.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\Zadanie25.AssemblyInfo.cs
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\Zadanie25.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\Zadanie25.sourcelink.json
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\Zadanie25.dll
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\refint\Zadanie25.dll
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\Zadanie25.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\Zadanie25.genruntimeconfig.cache
+C:\Users\admin\Documents\Praktyki\Zadanie25\Zadanie25\obj\Debug\net8.0\ref\Zadanie25.dll
