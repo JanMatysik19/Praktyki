@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\bin\Debug\net8.0\Zadanie23.exe
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\bin\Debug\net8.0\Zadanie23.deps.json
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\bin\Debug\net8.0\Zadanie23.runtimeconfig.json
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\bin\Debug\net8.0\Zadanie23.dll
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\bin\Debug\net8.0\Zadanie23.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\Zadanie23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\Zadanie23.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\Zadanie23.AssemblyInfo.cs
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\Zadanie23.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\Zadanie23.sourcelink.json
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\Zadanie23.dll
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\refint\Zadanie23.dll
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\Zadanie23.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\Zadanie23.genruntimeconfig.cache
+C:\Users\admin\Documents\Praktyki\Zadanie23\Zadanie23\obj\Debug\net8.0\ref\Zadanie23.dll
