@@ -73,6 +73,7 @@
             this.moveToDeck2.TabIndex = 3;
             this.moveToDeck2.Text = ">>";
             this.moveToDeck2.UseVisualStyleBackColor = true;
+            this.moveToDeck2.Click += new System.EventHandler(this.moveToDeck2_Click);
             // 
             // moveToDeck1
             // 
@@ -82,6 +83,7 @@
             this.moveToDeck1.TabIndex = 4;
             this.moveToDeck1.Text = "<<";
             this.moveToDeck1.UseVisualStyleBackColor = true;
+            this.moveToDeck1.Click += new System.EventHandler(this.moveToDeck1_Click);
             // 
             // label2
             // 
