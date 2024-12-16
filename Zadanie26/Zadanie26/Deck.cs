@@ -43,14 +43,13 @@ namespace Zadanie26
         }
 
         public void Shuffle() {
-            foreach(Card card in cards)
+            for(int i = 0; i< cards.Count; i++)
             {
+                Card card = cards[i];
                 int a = cards.IndexOf(card);
                 int b = random.Next(0, cards.Count);
-                
-                Card tmp = cards[a];
-                cards[a] = cards[b];
-                cards[b] = tmp;
+
+                swap(cards, a, b);
             }
         }
 
@@ -71,6 +70,12 @@ namespace Zadanie26
         public void Sort()
         {
             cards.Sort(new CardComparer_bySuit());
+        }
+
+        public Card Get(int index)
+        {
+            if(index >= 0 && index < cards.Count) return cards[index];
+            else return null;
         }
     }
 }

@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\zadanie26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|solutionrelative:zadanie26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie26\\zadanie26\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|solutionrelative:zadanie26\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie26\\zadanie26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|solutionrelative:zadanie26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie26\\zadanie26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\zadanie26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|solutionrelative:zadanie26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie26\\zadanie26\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\zadanie26\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|solutionrelative:zadanie26\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie26\\zadanie26\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\zadanie26\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|solutionrelative:zadanie26\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie26\\zadanie26\\cardcomparer_bysuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\zadanie26\\cardcomparer_bysuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30C48972-8821-4929-B8A7-CEEB9FFD19C1}|Zadanie26\\Zadanie26.csproj|solutionrelative:zadanie26\\cardcomparer_bysuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Zadanie26\\CardComparer_bySuit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:22:39.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T13:22:39.444Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Zadanie26\\Suits.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:55:12.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T12:55:12.521Z"
             },
             {
               "$type": "Document",
@@ -76,31 +74,30 @@
               "RelativeToolTip": "Zadanie26\\Card.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:55:06.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T12:55:06.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\Zadanie26\\Deck.cs",
               "RelativeDocumentMoniker": "Zadanie26\\Deck.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\Zadanie26\\Deck.cs",
               "RelativeToolTip": "Zadanie26\\Deck.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwDkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T12:54:10.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\Zadanie26\\Form1.cs",
               "RelativeDocumentMoniker": "Zadanie26\\Form1.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie26\\Zadanie26\\Form1.cs",
               "RelativeToolTip": "Zadanie26\\Form1.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwEwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwG4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T12:53:37.11Z",
               "EditorCaption": ""

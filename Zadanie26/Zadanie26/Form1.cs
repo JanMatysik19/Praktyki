@@ -93,5 +93,43 @@ namespace Zadanie26
             deck2.Shuffle();
             RedrawDeck(2);
         }
+
+        private void moveToDeck1_Click(object sender, EventArgs e)
+        {
+            if (listBox2.SelectedIndex != null)
+            {
+                int index = listBox2.SelectedIndex;
+
+                string name = (string)listBox2.Items[index];
+
+                listBox1.Items.Add(deck2.Get(index).Name);
+                listBox2.Items.Remove(index);
+
+                deck1.Add(deck2.Get(index));
+                deck2.Deal(index);
+
+                RedrawDeck(1);
+                RedrawDeck(2);
+            }
+        }
+
+        private void moveToDeck2_Click(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedIndex != null)
+            {
+                int index = listBox1.SelectedIndex;
+
+                string name = (string)listBox1.Items[index];
+
+                listBox2.Items.Add(deck1.Get(index).Name);
+                listBox1.Items.Remove(index);
+
+                deck2.Add(deck1.Get(index));
+                deck1.Deal(index);
+
+                RedrawDeck(1);
+                RedrawDeck(2);
+            }
+        }
     }
 }
