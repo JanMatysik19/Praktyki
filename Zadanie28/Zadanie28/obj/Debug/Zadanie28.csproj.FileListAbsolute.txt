@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\bin\Debug\Zadanie28.exe.config
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\bin\Debug\Zadanie28.exe
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\bin\Debug\Zadanie28.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\obj\Debug\Zadanie28.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\obj\Debug\Zadanie28.Form1.resources
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\obj\Debug\Zadanie28.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\obj\Debug\Zadanie28.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\obj\Debug\Zadanie28.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\obj\Debug\Zadanie28.exe
+C:\Users\admin\Documents\Praktyki\Zadanie28\Zadanie28\obj\Debug\Zadanie28.pdb
