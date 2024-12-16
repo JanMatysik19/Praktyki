@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie27\\zadanie27\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|solutionrelative:zadanie27\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie27\\zadanie27\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|solutionrelative:zadanie27\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie27\\zadanie27\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|solutionrelative:zadanie27\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie27\\zadanie27\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|solutionrelative:zadanie27\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie27\\zadanie27\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|solutionrelative:zadanie27\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie27\\zadanie27\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5631203-CE92-46F9-A258-F9ADE314AF84}|Zadanie27\\Zadanie27.csproj|solutionrelative:zadanie27\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Game.cs",
+              "RelativeDocumentMoniker": "Zadanie27\\Game.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Game.cs",
+              "RelativeToolTip": "Zadanie27\\Game.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAASwD0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:38:54.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Card.cs",
+              "RelativeDocumentMoniker": "Zadanie27\\Card.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Card.cs",
+              "RelativeToolTip": "Zadanie27\\Card.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:23:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Player.cs",
+              "RelativeDocumentMoniker": "Zadanie27\\Player.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Player.cs",
+              "RelativeToolTip": "Zadanie27\\Player.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wHgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:10:44.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Deck.cs",
+              "RelativeDocumentMoniker": "Zadanie27\\Deck.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Deck.cs",
+              "RelativeToolTip": "Zadanie27\\Deck.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAASwEwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:04:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie27\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Form1.cs",
+              "RelativeToolTip": "Zadanie27\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:53:21.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie27\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie27\\Zadanie27\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Zadanie27\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:39:31.808Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
