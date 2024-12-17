@@ -35,6 +35,8 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.saveJoe = new System.Windows.Forms.Button();
+            this.loadJoe = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // joesCashLabel
@@ -104,11 +106,33 @@
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // saveJoe
+            // 
+            this.saveJoe.Location = new System.Drawing.Point(12, 207);
+            this.saveJoe.Name = "saveJoe";
+            this.saveJoe.Size = new System.Drawing.Size(106, 23);
+            this.saveJoe.TabIndex = 7;
+            this.saveJoe.Text = "Zapisz Joego";
+            this.saveJoe.UseVisualStyleBackColor = true;
+            this.saveJoe.Click += new System.EventHandler(this.saveJoe_Click);
+            // 
+            // loadJoe
+            // 
+            this.loadJoe.Location = new System.Drawing.Point(124, 207);
+            this.loadJoe.Name = "loadJoe";
+            this.loadJoe.Size = new System.Drawing.Size(105, 23);
+            this.loadJoe.TabIndex = 8;
+            this.loadJoe.Text = "Wczytaj Joego";
+            this.loadJoe.UseVisualStyleBackColor = true;
+            this.loadJoe.Click += new System.EventHandler(this.loadJoe_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(245, 205);
+            this.ClientSize = new System.Drawing.Size(245, 247);
+            this.Controls.Add(this.loadJoe);
+            this.Controls.Add(this.saveJoe);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -116,6 +140,9 @@
             this.Controls.Add(this.bankCashLabel);
             this.Controls.Add(this.bobsCashLabel);
             this.Controls.Add(this.joesCashLabel);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "Zabawa z Joem i Bobem";
             this.ResumeLayout(false);
@@ -132,6 +159,8 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button saveJoe;
+        private System.Windows.Forms.Button loadJoe;
     }
 }
 
