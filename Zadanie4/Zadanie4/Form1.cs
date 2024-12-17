@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -84,6 +86,40 @@ namespace Zadanie4
             joesCashLabel.Text = joe.Name + " ma " + joe.Cash + " zł";
             bobsCashLabel.Text = bob.Name + " ma " + bob.Cash + " zł";
             bankCashLabel.Text = "Bank ma " + bank + " zł";
+        }
+
+        private void saveJoe_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using(Stream output = File.Create("Joe.dat"))
+                {
+                    BinaryFormatter formatter = new BinaryFormatter();
+                    formatter.Serialize(output, joe);
+                }
+                UpdateForm();
+
+            } catch(Exception ex)
+            {
+                MessageBox.Show("Problem z zapisem Joego", "Ostrzerzenie", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+        }
+
+        private void loadJoe_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using(Stream input = File.OpenRead("Joe.dat"))
+                {
+                    BinaryFormatter formatter = new BinaryFormatter();
+                    joe = (Guy)formatter.Deserialize(input);
+                }
+                UpdateForm();
+
+            } catch(Exception ex)
+            {
+                MessageBox.Show("Problem ze wczytaniem Joego", "Ostrzerzenie", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
         }
     }
 }

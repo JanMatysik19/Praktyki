@@ -5,8 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Zadanie4
 {
+    [Serializable]
     class Guy
     {
         private string _name;
