@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\bin\Debug\Zadanie29.exe.config
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\bin\Debug\Zadanie29.exe
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\bin\Debug\Zadanie29.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\obj\Debug\Zadanie29.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\obj\Debug\Zadanie29.Form1.resources
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\obj\Debug\Zadanie29.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\obj\Debug\Zadanie29.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\obj\Debug\Zadanie29.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\obj\Debug\Zadanie29.exe
+C:\Users\admin\Documents\Praktyki\Zadanie29\Zadanie29\obj\Debug\Zadanie29.pdb
