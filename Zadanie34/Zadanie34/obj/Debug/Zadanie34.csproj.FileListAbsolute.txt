@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\bin\Debug\Zadanie34.exe.config
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\bin\Debug\Zadanie34.exe
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\bin\Debug\Zadanie34.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\Zadanie34.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\App.g.cs
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\Zadanie34_MarkupCompile.cache
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\Zadanie34_MarkupCompile.lref
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\MainWindow.baml
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\Zadanie34.g.resources
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\Zadanie34.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\Zadanie34.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\Zadanie34.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\Zadanie34.exe
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\Zadanie34.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie34\Zadanie34\obj\Debug\GeneratedInternalTypeHelper.g.cs
