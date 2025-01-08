@@ -1,0 +1,89 @@
+﻿<Window x:Class="WPF3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="524" Width="860">
+
+    <Window.Resources>
+        <Style x:Key="TitleLbl" TargetType="Label">
+            <Setter Property="FontSize" Value="32"/>
+            <Setter Property="Margin" Value="0,0,0,15"/>
+        </Style>
+        <Style x:Key="Strong" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="19"/>
+        </Style>
+        <Style x:Key="Lbl" TargetType="Label">
+            <Setter Property="FontSize" Value="11"/>
+        </Style>
+
+        <Style x:Key="GuyBtn" TargetType="Button">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Margin" Value="0,10,0,0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+        </Style>
+
+        <Style TargetType="TextBlock">
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+    </Window.Resources>
+
+
+    <Grid Grid.Row="1" Margin="120,20,120,20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        
+        <Label Grid.Row="0" Grid.ColumnSpan="5" Grid.Column="0" Content="Serializacja obiektow Guy" Name="title" Style="{StaticResource TitleLbl}" />
+
+        
+        <StackPanel Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="1">
+            <TextBlock Text="Mam na imię Joe, mam 37 lat i 176,22 złotych w kieszenie, a moją atutową kartą jest Six of Clubs"  />
+            <Button Content="Zapisz Joego" HorizontalAlignment="Left" Style="{StaticResource GuyBtn}" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="1">
+            <TextBlock Text="Mam na imię Bob, mam 45 lat i 4,78 złotych w kieszenie, a moją atutową kartą jest Four of Spades" />
+            <Button Content="Zapisz Boba" Style="{StaticResource GuyBtn}" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="1">
+            <TextBlock Text="Mam na imię Ed, mam 43 lat i 37,51 złotych w kieszenie, a moją atutową kartą jest Five of Diamonds" />
+            <Button Content="Zapisz Eda" Style="{StaticResource GuyBtn}" />
+        </StackPanel>
+
+
+        <Label Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="5" Content="Nazwa ostatniego zapisanego pliku" Style="{StaticResource Lbl}" />
+        <TextBox Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3"/>
+        <Button Grid.Row="4" Grid.Column="5" Grid.ColumnSpan="1" Content="Wczytaj obiekt Guy" HorizontalAlignment="Left"/>
+
+        <Label Grid.Row="5" Grid.Column="5" Content="Nowy facet:" />
+
+        <Label Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" Content="Data utworzenia" Style="{StaticResource Lbl}"/>
+
+        <TextBlock Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="3" Text="2013-12-05 19:50:38" Name="date" Style="{StaticResource Strong}"/>
+
+        <Label Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="3" Content="Typ zawartości" />
+
+        <TextBlock Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="3" Text="html/xml" Name="type" Style="{StaticResource Strong}"/>
+        
+    </Grid>
+</Window>
