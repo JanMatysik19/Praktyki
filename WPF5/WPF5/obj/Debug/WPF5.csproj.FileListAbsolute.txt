@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\bin\Debug\WPF5.exe.config
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\bin\Debug\WPF5.exe
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\bin\Debug\WPF5.pdb
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\WPF5.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\App.g.cs
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\WPF5_MarkupCompile.cache
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\WPF5_MarkupCompile.lref
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\MainWindow.baml
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\WPF5.g.resources
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\WPF5.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\WPF5.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\WPF5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\WPF5.exe
+C:\Users\admin\Documents\Praktyki\WPF5\WPF5\obj\Debug\WPF5.pdb
