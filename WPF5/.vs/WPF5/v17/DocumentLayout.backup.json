@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1478AF-6260-4A5F-A704-BC883B219795}|WPF5\\WPF5.csproj|c:\\users\\admin\\documents\\praktyki\\wpf5\\wpf5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1478AF-6260-4A5F-A704-BC883B219795}|WPF5\\WPF5.csproj|solutionrelative:wpf5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1478AF-6260-4A5F-A704-BC883B219795}|WPF5\\WPF5.csproj|c:\\users\\admin\\documents\\praktyki\\wpf5\\wpf5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D1478AF-6260-4A5F-A704-BC883B219795}|WPF5\\WPF5.csproj|solutionrelative:wpf5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1103,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF5\\WPF5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF5\\WPF5\\MainWindow.xaml",
+              "RelativeToolTip": "WPF5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T07:41:45.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF5\\WPF5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF5\\WPF5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF5\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:41:44.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
