@@ -36,6 +36,12 @@ namespace WPF6
                 new ComicQuery("Drogie komiksy", "Komiksy powyżej 500 zł.", "Komiksy o wartości przekraczającej 500 zł"
                 + " Janek, może użyć tych danych do wybrania najbardziej"
                 + " pożądanych komiksów", "/Assets/capitan_amazing_250x250.jpg"),
+                new ComicQuery("Grupuj komiksy według zakresu cen", "Pogrupuj komiksy Janka według cen",
+                "Janek kupuje dużo tanich komiksów, trochę średniej wartości i pojedyncze sztuki drogich, jednak przed zakupem chciałby wiedzieć, jakie ma możliwości.",
+                "/Assets/capitan_amazing_250x250.jpg"),
+                new ComicQuery("Połącz zakupy z cenami", "Przekonajmy się, czy Janek ostro się targuje",
+                "To zapytanie tworzy listę obiektów Purchase zawierających zakupy Janka i porównuje je z cenami z Listy Grzegorza",
+                "/Assets/capitan_amazing_250x250.jpg"),
                 new ComicQuery("LINQ jest wszechstronne 1", "Modyfikuje wszystkie zwracane dane",
                 "Ten kod doda łańcuch znaków na końcu każdego tekstu przechowywanego w tablicy.",
                 "/Assets/bluegray_250x250.jpg"),
@@ -61,6 +67,8 @@ namespace WPF6
             {
                 case "LINQ ułatwia zapytania": LinqMakesQueriesEasy(); break;
                 case "Drogie komiksy": ExpensiveComics(); break;
+                case "Grupuj komiksy według zakresu cen": GroupComicsByPriceRange(); break;
+                case "Połącz zakupy z cenami": JoinPurchasesWithPrices(); break;
                 case "LINQ jest wszechstronne 1": LinqIsVersatile1(); break;
                 case "LINQ jest wszechstronne 2": LinqIsVersatile2(); break;
                 case "LINQ jest wszechstronne 3": LinqIsVersatile3(); break;
@@ -81,6 +89,18 @@ namespace WPF6
                 new Comic{ Name = "Black Monday", issue = 74 },
                 new Comic{ Name = "Tribal Tatto Madness", issue = 83 },
                 new Comic{ Name = "The Death of an Object", issue = 97 }
+            };
+        }
+
+        public static IEnumerable<Purchase> FindPurchases()
+        {
+            return new List<Purchase>()
+            {
+                new Purchase{ Price = 225M, Issue = 68 },
+                new Purchase{ Price = 375M, Issue = 19 },
+                new Purchase{ Price = 3600M, Issue = 6 },
+                new Purchase{ Price = 13215M, Issue = 57 },
+                new Purchase{ Price = 660M, Issue = 36 }
             };
         }
 
@@ -123,39 +143,12 @@ namespace WPF6
         {
             IEnumerable<Comic> comics = BuildCatalog();
             Dictionary<int, decimal> values = GetPrices();
+            IEnumerable<Purchase> purchases = FindPurchases();
 
             var mostExpensive = from comic in comics
                                 where values[comic.issue] > 500
                                 orderby values[comic.issue] descending
                                 select comic;
-
-            var priceGroups = from pair in values
-                              group pair.Key by EvaluatePrice(pair.Value)
-                              into priceGroup
-                              orderby priceGroup.Key descending
-                              select priceGroup;
-
-            foreach(var group in priceGroups)
-            {
-                string stringKey;
-                switch(group.Key)
-                {
-                    case PriceRange.Cheap:
-                        stringKey = "tanie";
-                        break;
-                    case PriceRange.Midrange:
-                        stringKey = "średnie";
-                        break;
-                    default:
-                        stringKey = "drogie";
-                        break;
-                }
-
-                Console.Write("Znalazłem {0} {1} komiksy: numery ", group.Count(), stringKey);
-                foreach (var issue in group) Console.Write(issue.ToString() + " ");
-                Console.WriteLine();
-            }
-
 
 
             foreach(Comic comic in mostExpensive)
@@ -166,6 +159,110 @@ namespace WPF6
                     Image = "/Assets/capitan_amazing_250x250.jpg"
                 });
             }
+        }
+
+        private void GroupComicsByPriceRange()
+        {
+            Dictionary<int, decimal> values = GetPrices();
+
+            var priceGroups = from pair in values
+                              group pair.Key by EvaluatePrice(pair.Value)
+                              into priceGroup
+                              orderby priceGroup.Key descending
+                              select priceGroup;
+
+
+
+            int numberOfComics = 0;
+            foreach (var group in priceGroups) numberOfComics += group.Count();
+
+            CurrentQueryResults.Add(new
+            {
+                Title = "Ilość komiksów",
+                Subtitle = "Ilość komiksów, które kupił Janek oraz znajdują się też w sklepie Grzegorza",
+                Description = numberOfComics.ToString(),
+                Image = "/Assets/purple_250x250.jpg"
+            });
+
+
+
+            foreach (var group in priceGroups)
+            {
+                string stringKey;
+                string stringKeyComment = "Komiksy ";
+                switch (group.Key)
+                {
+                    case PriceRange.Cheap:
+                        stringKey = "tanie";
+                        stringKeyComment = "poniżej 100 zł";
+                        break;
+                    case PriceRange.Midrange:
+                        stringKey = "średnie";
+                        stringKeyComment = "poniżej 1000 zł ale powyżej 100zł";
+                        break;
+                    default:
+                        stringKey = "drogie";
+                        stringKeyComment = "powyżej 1000 zł";
+                        break;
+                }
+
+                string content = "";
+                foreach (var issue in group) content += issue.ToString() + " ";
+
+                CurrentQueryResults.Add(new
+                {
+                    Title = stringKey,
+                    Subtitle = stringKeyComment,
+                    Description = content,
+                    Image = "/Assets/bluegray_250x250.jpg"
+                });
+            }
+        }
+
+        private void JoinPurchasesWithPrices()
+        {
+            IEnumerable<Comic> comics = BuildCatalog();
+            IEnumerable<Purchase> purchases = FindPurchases();
+            Dictionary<int, decimal> values = GetPrices();
+
+            var results = from comic in comics
+                          join purchase in purchases
+                          on comic.issue equals purchase.Issue
+                          orderby comic.issue ascending
+                          select new { comic.Name, comic.issue, purchase.Price };
+
+
+            decimal gregsListValue = 0;
+            decimal totalSpent = 0;
+            foreach (var result in results)
+            {
+                string choice;
+                if (result.Price <= values[result.issue]) choice = "Ten zakup był rozsądny";
+                else choice = "Ten zakup był nierozsądny";
+
+                CurrentQueryResults.Add(new
+                {
+                    Title = "Numer " + result.issue,
+                    Subtitle = choice,
+                    Description = String.Format("Number {0}: ({1}) kupiony za {2:c}.", result.issue, result.Name, result.Price),
+                    Image = "/Assets/capitan_amazing_250x250.jpg"
+                });
+                gregsListValue += values[result.issue];
+                totalSpent += result.Price;
+            }
+
+            string endComment;
+            if (totalSpent > gregsListValue) endComment = String.Format("Przez co niepotrzebnie wydał {0} zł.", totalSpent - gregsListValue);
+            else if (totalSpent < gregsListValue) endComment = String.Format("Dzięki czemu zaoszczędził {0} zł.", gregsListValue - totalSpent);
+            else endComment = String.Format("Dzięki czmu nic nie stracił.");
+
+            CurrentQueryResults.Add(new
+            {
+                Title = "Podsumowanie",
+                Subtitle = "Podsumowanie cen zakupu komiksów przez Janka z tymi w sklepie Grzegorza",
+                Description = String.Format("Janek wydał {0:c} na komiksy warte {1:c}. {2}", totalSpent, gregsListValue, endComment),
+                Image = "/Assets/purple_250x250.jpg"
+            });
         }
 
         private void LinqIsVersatile1()
