@@ -52,7 +52,9 @@
             <ColumnDefinition Width="60" />
         </Grid.ColumnDefinitions>
 
-        <Image Grid.Column="0" Grid.Row="0" Source="/Assets/back.jpg" Width="50" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <Button x:Name="backBtn" Click="backBtn_Click" Width="50" Height="50" HorizontalAlignment="Center"  VerticalAlignment="Center" BorderThickness="0" Background="Transparent">
+            <Image Grid.Column="0" Grid.Row="0" Source="/Assets/back.jpg"  />
+        </Button>
 
         <TextBlock Grid.Column="1" Grid.Row="0" Style="{StaticResource Title}" Text="..." Name="pageTitle"/>
 

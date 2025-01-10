@@ -20,6 +20,7 @@ namespace WPF6
     /// </summary>
     public partial class MainWindow : Window
     {
+        public static ComicQuery currQuery {  get; set; }
 
         public MainWindow()
         {

@@ -26,20 +26,19 @@ namespace WPF6
             cmq = new ComicQueryManager();
             InitializeComponent();
             list.ItemsSource = cmq.CurrentQueryResults;
+
+
+            if (MainWindow.currQuery != null)
+            {
+                Console.WriteLine(MainWindow.currQuery.Title);
+                cmq.UpdateQueryResults(MainWindow.currQuery);
+                pageTitle.Text = MainWindow.currQuery.Title;
+            }
         }
 
-        protected virtual void OnNavigatedTo(NavigationEventArgs e)
+        private void backBtn_Click(object sender, RoutedEventArgs e)
         {
-            ComicQuery comicQuery = e.Parameter as ComicQuery;
-
-
-
-            if(comicQuery != null)
-            {
-                Console.WriteLine(comicQuery.Title);
-                cmq.UpdateQueryResults(comicQuery);
-                pageTitle.Text = comicQuery.Title;
-            }
+            NavigationService.Navigate(new Uri("/MainPage.xaml", UriKind.Relative));
         }
     }
 }
