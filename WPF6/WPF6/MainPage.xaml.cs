@@ -26,14 +26,13 @@ namespace WPF6
             list.ItemsSource = new ComicQueryManager().AvailableQueries;
         }
 
-        private void list_selection(object sender, SelectionChangedEventArgs e)
+        private async void list_selection(object sender, SelectionChangedEventArgs e)
         {
-            ComicQuery query = list.SelectedItem as ComicQuery;
+            MainWindow.currQuery = list.SelectedItem as ComicQuery;
 
-            if (query != null && NavigationService != null)
+            if (MainWindow.currQuery != null && NavigationService != null)
             {
-                Console.WriteLine(query.Title);
-                ComicQueryManager.currQuery = query;
+                Console.WriteLine(MainWindow.currQuery.Title);
                 NavigationService.Navigate(new Uri("/QueryDetail.xaml", UriKind.Relative));
             }
         }

@@ -10,5 +10,10 @@ namespace WPF6
     {
         public string Name { get; set; }
         public int issue { get; set; }
+        public int Year { get; set; }
+        public string CoverPrice { get; set; }
+        public string Synospis { get; set; }
+        public string MainVillain { get; set; }
+        public string Cover { get; set; }
     }
 }

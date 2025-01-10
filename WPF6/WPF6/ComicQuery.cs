@@ -7,7 +7,7 @@ using System.Windows.Media.Imaging;
 
 namespace WPF6
 {
-    internal class ComicQuery
+    public class ComicQuery
     {
         public string Title { get; private set; }
         public string Subtitle { get; private set; }
