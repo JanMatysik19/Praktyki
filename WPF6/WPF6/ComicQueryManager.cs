@@ -32,22 +32,33 @@ namespace WPF6
             {
                 new ComicQuery("LINQ ułatwia zapytania", "Proste zapytanie",
                 "Pokażmy Jankowi jak elastyczna jest technologia LINQ", "/Assets/purple_250x250.jpg"),
-                
+
+
+                new ComicQuery("Wszystkie komiksy w kolekcji", "Przejrzyj wszystkie komiksy w swojej kolekcji",
+                "Możesz przeglądać swoje komiksy oraz zmieniać sposób prezentacji ich na stronie.",
+                "/Assets/capitan_amazing_search_250x250.jpg"),
+
                 new ComicQuery("Drogie komiksy", "Komiksy powyżej 500 zł.", "Komiksy o wartości przekraczającej 500 zł"
                 + " Janek, może użyć tych danych do wybrania najbardziej"
                 + " pożądanych komiksów", "/Assets/capitan_amazing_250x250.jpg"),
+
                 new ComicQuery("Grupuj komiksy według zakresu cen", "Pogrupuj komiksy Janka według cen",
                 "Janek kupuje dużo tanich komiksów, trochę średniej wartości i pojedyncze sztuki drogich, jednak przed zakupem chciałby wiedzieć, jakie ma możliwości.",
                 "/Assets/capitan_amazing_250x250.jpg"),
+
                 new ComicQuery("Połącz zakupy z cenami", "Przekonajmy się, czy Janek ostro się targuje",
                 "To zapytanie tworzy listę obiektów Purchase zawierających zakupy Janka i porównuje je z cenami z Listy Grzegorza",
                 "/Assets/capitan_amazing_250x250.jpg"),
+
+
                 new ComicQuery("LINQ jest wszechstronne 1", "Modyfikuje wszystkie zwracane dane",
                 "Ten kod doda łańcuch znaków na końcu każdego tekstu przechowywanego w tablicy.",
                 "/Assets/bluegray_250x250.jpg"),
+
                 new ComicQuery("LINQ jest wszechstronne 2", "Wykonuje obliczenia na kolekcjach",
                 "LINQ udostępnia metody rozszerzające dla kolekcji (oraz wszystkich inych typów implementujących" +
                 " interfejs IEnumerable<T>)", "/Assets/purple_250x250.jpg"),
+
                 new ComicQuery("LINQ jest wszechstronne 3", "Zapisuje całe wyniki lub ich część w nowej sekwencji",
                 "Czasami będziesz chciał zachować wyniki zapytania, by ich użyć w przyszłości",
                 "/Assets/bluegray_250x250.jpg")
@@ -66,6 +77,7 @@ namespace WPF6
             switch (query.Title)
             {
                 case "LINQ ułatwia zapytania": LinqMakesQueriesEasy(); break;
+                case "Wszystkie komiksy w kolekcji": AllComicsInTheCollection(); break;
                 case "Drogie komiksy": ExpensiveComics(); break;
                 case "Grupuj komiksy według zakresu cen": GroupComicsByPriceRange(); break;
                 case "Połącz zakupy z cenami": JoinPurchasesWithPrices(); break;
@@ -81,28 +93,31 @@ namespace WPF6
         {
             return new List<Comic>()
             {
-                new Comic{ Name = "Johnny America vs. the Pinko", issue = 6 },
-                new Comic{ Name = "Rock and ROll (edycja limitowana)", issue = 19 },
-                new Comic{ Name = "Woman's Work", issue = 36 },
-                new Comic{ Name = "Hippie Madness (Źle wydrukowany)", issue = 57 },
-                new Comic{ Name = "Revange of the New Wave Freak (uszkodzony)", issue = 68 },
-                new Comic{ Name = "Black Monday", issue = 74 },
-                new Comic{ Name = "Tribal Tatto Madness", issue = 83 },
-                new Comic{ Name = "The Death of an Object", issue = 97 }
+                new Comic{ Name = "Johnny America vs. the Pinko", issue = 6, Year = 1949, CoverPrice = "10 groszy", Synospis = "Kapitan wspaniały musi ratować " +
+                "Amerykę przed komunistami, gdyż Pinko i jego komnistyczne pachołki uknuły plan obrabowania Fort Knox i ukradzenia całego złota.", MainVillain = "Pinko",
+                Cover = "/Assets/issue_6.jpg"},
+                new Comic{ Name = "Rock and ROll (edycja limitowana)", issue = 19, Year = 1957, CoverPrice = "10 groszy", Synospis = "Doktor Vortan sieje spustoszenie" +
+                " wśród młodzieży przy użyciu swego radiowego urządzenia, które korzysta z najnowszego tanecznego szaleństwa, by wprowadzać fanów rock'n'rolla w " +
+                "niekontrolowany trans.", MainVillain = "Doctor Vortan",
+                Cover = "/Assets/issue_19.jpg" },
+                new Comic{ Name = "Woman's Work", issue = 36, Year = 1968, CoverPrice = "12 groszy", Synospis = "Kapita staje twarzą w twarz ze swym pierwszym" +
+                " wrogiem płci żeńskiej, Hysterianną, której niesamowite, telepatyczne i telekinetyczne zdolności pozwalają powołać armię kobiet, jakiej nawet Kapitan " +
+                "będzie miał problemy sprostać.", MainVillain = "Hysterianna",
+                Cover = "/Assets/issue_36.jpg" },
+                new Comic{ Name = "Hippie Madness (Źle wydrukowany)", issue = 57, Year = 1, CoverPrice = "x", Synospis = "x", MainVillain = "x",
+                    Cover = "/Assets/issue_57.jpg" },
+                new Comic{ Name = "Revange of the New Wave Freak (uszkodzony)", issue = 68, Year = 2, CoverPrice = "y", Synospis = "y", MainVillain = "y",
+                    Cover = "/Assets/issue_68.jpg" },
+                new Comic{ Name = "Black Monday", issue = 74, Year = 3, CoverPrice = "z", Synospis = "z", MainVillain = "z",
+                    Cover = "/Assets/issue_74.jpg" },
+                new Comic{ Name = "Tribal Tatto Madness", issue = 83, Year = 4, CoverPrice = "s", Synospis = "s", MainVillain = "s",
+                    Cover = "/Assets/issue_83.jpg" },
+                new Comic{ Name = "The Death of an Object", issue = 97, Year = 5, CoverPrice = "g", Synospis = "g", MainVillain = "g",
+                    Cover = "/Assets/issue_97.jpg" }
             };
         }
 
-        public static IEnumerable<Purchase> FindPurchases()
-        {
-            return new List<Purchase>()
-            {
-                new Purchase{ Price = 225M, Issue = 68 },
-                new Purchase{ Price = 375M, Issue = 19 },
-                new Purchase{ Price = 3600M, Issue = 6 },
-                new Purchase{ Price = 13215M, Issue = 57 },
-                new Purchase{ Price = 660M, Issue = 36 }
-            };
-        }
+        
 
 
         private static Dictionary<int, decimal> GetPrices()
@@ -143,7 +158,7 @@ namespace WPF6
         {
             IEnumerable<Comic> comics = BuildCatalog();
             Dictionary<int, decimal> values = GetPrices();
-            IEnumerable<Purchase> purchases = FindPurchases();
+            IEnumerable<Purchase> purchases = Purchase.FindPurchases();
 
             var mostExpensive = from comic in comics
                                 where values[comic.issue] > 500
@@ -214,7 +229,7 @@ namespace WPF6
                     Title = stringKey,
                     Subtitle = stringKeyComment,
                     Description = content,
-                    Image = "/Assets/bluegray_250x250.jpg"
+                    Image = "/Assets/bluegray_250x250.jpg",
                 });
             }
         }
@@ -222,7 +237,7 @@ namespace WPF6
         private void JoinPurchasesWithPrices()
         {
             IEnumerable<Comic> comics = BuildCatalog();
-            IEnumerable<Purchase> purchases = FindPurchases();
+            IEnumerable<Purchase> purchases = Purchase.FindPurchases();
             Dictionary<int, decimal> values = GetPrices();
 
             var results = from comic in comics
@@ -340,6 +355,26 @@ namespace WPF6
                     Title = n.ToString(),
                     Image = "/Assets/bluegray_250x250.jpg"
                 });
+        }
+
+        private void AllComicsInTheCollection()
+        {
+            IEnumerable<Comic> comics = BuildCatalog();
+
+            foreach (var comic in comics)
+            {
+                CurrentQueryResults.Add(new
+                {
+                    Title = comic.Name,
+                    Subtitle = comic.issue,
+                    Year = comic.Year.ToString(),
+                    CoverPrice = comic.CoverPrice,
+                    MainEnemy = comic.MainVillain,
+                    Description = comic.Synospis,
+                    Image = "/Assets/capitan_amazing_search_250x250.jpg",
+                    Cover = comic.Cover
+                });
+            }
         }
     }
 }

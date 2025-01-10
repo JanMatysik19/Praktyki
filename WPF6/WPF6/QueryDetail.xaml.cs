@@ -25,7 +25,7 @@ namespace WPF6
         {
             cmq = new ComicQueryManager();
             InitializeComponent();
-            list.ItemsSource = cmq.CurrentQueryResults;
+            list.ItemsSource = listZoomed.ItemsSource = cmq.CurrentQueryResults;
 
 
             if (MainWindow.currQuery != null)
@@ -33,12 +33,35 @@ namespace WPF6
                 Console.WriteLine(MainWindow.currQuery.Title);
                 cmq.UpdateQueryResults(MainWindow.currQuery);
                 pageTitle.Text = MainWindow.currQuery.Title;
+
+                if(MainWindow.currQuery.Title != "Wszystkie komiksy w kolekcji")
+                {
+                    list.Visibility = Visibility.Visible;
+                    listZoomed.Visibility = Visibility.Hidden;
+                    zoomBtn.Visibility = Visibility.Hidden;
+                } else
+                {
+                    zoomBtn.Visibility = Visibility.Visible;
+                }
             }
         }
 
         private void backBtn_Click(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new Uri("/MainPage.xaml", UriKind.Relative));
+        }
+
+        private void zoomBtn_Click(object sender, RoutedEventArgs e)
+        {
+            if(list.Visibility != Visibility.Visible)
+            {
+                list.Visibility = Visibility.Visible;
+                listZoomed.Visibility = Visibility.Hidden;
+            } else
+            {
+                list.Visibility = Visibility.Hidden;
+                listZoomed.Visibility = Visibility.Visible;
+            }
         }
     }
 }

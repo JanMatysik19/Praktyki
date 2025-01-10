@@ -26,6 +26,12 @@
         <Style x:Key="ListViewStyle" TargetType="ListView">
             <Setter Property="Background" Value="Transparent" />
             <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        <Style x:Key="ListViewStyleZoomed" TargetType="ListView">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Visibility" Value="Visible" />
         </Style>
 
         <Style x:Key="ListTitleStyle" TargetType="TextBlock">
@@ -36,6 +42,15 @@
         <Style x:Key="ListSubtitleStyle" TargetType="TextBlock">
             <Setter Property="FontWeight" Value="Light" />
             <Setter Property="FontSize" Value="13" />
+        </Style>
+
+        <Style x:Key="ListText" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="Margin" Value="0,0,0,10" />
+        </Style>
+        <Style x:Key="ListLabel" TargetType="Label">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="FontWeight" Value="Light" />
         </Style>
     </Page.Resources>
 
@@ -52,12 +67,15 @@
             <ColumnDefinition Width="60" />
         </Grid.ColumnDefinitions>
 
-        <Button x:Name="backBtn" Click="backBtn_Click" Width="50" Height="50" HorizontalAlignment="Center"  VerticalAlignment="Center" BorderThickness="0" Background="Transparent">
-            <Image Grid.Column="0" Grid.Row="0" Source="/Assets/back.jpg"  />
+        <Button Grid.Column="0" Grid.Row="0" x:Name="backBtn" Click="backBtn_Click" Width="50" Height="50" HorizontalAlignment="Center"  VerticalAlignment="Center" BorderThickness="0" Background="Transparent">
+            <Image Source="/Assets/back.jpg"  />
         </Button>
 
         <TextBlock Grid.Column="1" Grid.Row="0" Style="{StaticResource Title}" Text="..." Name="pageTitle"/>
 
+        <Button Grid.Column="0" Grid.Row="1" x:Name="zoomBtn" Click="zoomBtn_Click" Width="50" Height="50" HorizontalAlignment="Center"  VerticalAlignment="Center" BorderThickness="0" Background="Transparent">
+            <Image Source="/Assets/zoom.jpg"  />
+        </Button>
 
         <TextBlock Grid.Column="1" Grid.Row="2" Style="{StaticResource SubheaderTextStyle}" Text="Wyniki zapytania" Margin="10,0,0,20" />
 
@@ -74,6 +92,39 @@
                             <TextBlock Text="{Binding Description}" MaxHeight="60" />
                         </StackPanel>
                     </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <ListView Grid.Row="3" Grid.Column="1" Margin="0,-10,0,0" ItemsSource="{Binding CurrentQueryResults}" Style="{StaticResource ListViewStyleZoomed}" Name="listZoomed"  >
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid Columns="2" />
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,0,15" HorizontalAlignment="Left" Width="600">
+                            <Border Width="326" Height="500">
+                                <Image Source="{Binding Cover}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" />
+                            </Border>
+                            <StackPanel VerticalAlignment="Top" Margin="10,0,0,0" Orientation="Vertical" Width="264">
+                                <Label Content="Tytuł" Style="{StaticResource ListLabel}" />
+                                <TextBlock Text="{Binding Title}" TextWrapping="NoWrap" Style="{StaticResource ListText}" />
+                                <Label Content="Numer" Style="{StaticResource ListLabel}" />
+                                <TextBlock Text="{Binding Subtitle}" TextWrapping="NoWrap" Style="{StaticResource ListText}" />
+                                <Label Content="Rok" Style="{StaticResource ListLabel}" />
+                                <TextBlock Text="{Binding Year}" Style="{StaticResource ListText}" />
+                                <Label Content="Cena wydania" Style="{StaticResource ListLabel}" />
+                                <TextBlock Text="{Binding CoverPrice}" Style="{StaticResource ListText}" />
+                                <Label Content="Główny przeciwnik" Style="{StaticResource ListLabel}" />
+                                <TextBlock Text="{Binding MainEnemy}" Style="{StaticResource ListText}" />
+                                <Label Content="Streszczenie" Style="{StaticResource ListLabel}" />
+                                <TextBlock Text="{Binding Description}" TextWrapping="Wrap" TextTrimming="None" Style="{StaticResource ListText}" />
+                            </StackPanel>
+                        </StackPanel>
+                    </Grid>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
