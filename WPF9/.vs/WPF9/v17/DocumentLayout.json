@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{921F26C0-A15E-4BBA-B261-0DCB26B10427}|WPF9\\WPF9.csproj|c:\\users\\admin\\documents\\praktyki\\wpf9\\wpf9\\view\\leaguepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{921F26C0-A15E-4BBA-B261-0DCB26B10427}|WPF9\\WPF9.csproj|solutionrelative:wpf9\\view\\leaguepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921F26C0-A15E-4BBA-B261-0DCB26B10427}|WPF9\\WPF9.csproj|c:\\users\\admin\\documents\\praktyki\\wpf9\\wpf9\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921F26C0-A15E-4BBA-B261-0DCB26B10427}|WPF9\\WPF9.csproj|solutionrelative:wpf9\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921F26C0-A15E-4BBA-B261-0DCB26B10427}|WPF9\\WPF9.csproj|c:\\users\\admin\\documents\\praktyki\\wpf9\\wpf9\\model\\roster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921F26C0-A15E-4BBA-B261-0DCB26B10427}|WPF9\\WPF9.csproj|solutionrelative:wpf9\\model\\roster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1098,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Roster.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF9\\WPF9\\Model\\Roster.cs",
+              "RelativeDocumentMoniker": "WPF9\\Model\\Roster.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF9\\WPF9\\Model\\Roster.cs",
+              "RelativeToolTip": "WPF9\\Model\\Roster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:32:32.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaguePage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF9\\WPF9\\View\\LeaguePage.xaml",
+              "RelativeDocumentMoniker": "WPF9\\View\\LeaguePage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF9\\WPF9\\View\\LeaguePage.xaml",
+              "RelativeToolTip": "WPF9\\View\\LeaguePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T13:34:01.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF9\\WPF9\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "WPF9\\Model\\Player.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF9\\WPF9\\Model\\Player.cs",
+              "RelativeToolTip": "WPF9\\Model\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:32:15.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 326,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
