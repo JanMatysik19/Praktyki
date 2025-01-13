@@ -28,8 +28,10 @@ namespace WPF7
 
         public void PlayBall(int Tur)
         {
+            Bat bat = ball.GetNewBat();
             BallEventArgs ballEventArgs = new BallEventArgs(Trajectory, Distance, Tur);
-            ball.OnBallInPlay(ballEventArgs);
+            //ball.OnBallInPlay(ballEventArgs);
+            bat.HitTheBall(ballEventArgs);
         }
     }
 }

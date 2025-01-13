@@ -22,13 +22,16 @@ namespace WPF6
     {
         public MainPage()
         {
+            ComicQueryManager cqm = new ComicQueryManager();
             InitializeComponent();
-            list.ItemsSource = new ComicQueryManager().AvailableQueries;
+            list.ItemsSource = cqm.AvailableQueries;
         }
 
         private async void list_selection(object sender, SelectionChangedEventArgs e)
         {
             MainWindow.currQuery = list.SelectedItem as ComicQuery;
+
+            SuspensionManager.CurrentQuery = MainWindow.currQuery.Title;
 
             if (MainWindow.currQuery != null && NavigationService != null)
             {

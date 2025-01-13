@@ -65,6 +65,7 @@
     <Compile Include="QueryDetail.xaml.cs">
       <DependentUpon>QueryDetail.xaml</DependentUpon>
     </Compile>
+    <Compile Include="SuspensionManager.cs" />
     <Page Include="MainPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

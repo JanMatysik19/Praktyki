@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|c:\\users\\admin\\documents\\praktyki\\wpf6\\wpf6\\querydetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\querydetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\querydetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\querydetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\comicquerymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\comicquerymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\comicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\comicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\comicquerymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\comicquerymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|c:\\users\\admin\\documents\\praktyki\\wpf6\\wpf6\\suspensionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\suspensionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|c:\\users\\admin\\documents\\praktyki\\wpf6\\wpf6\\querydetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\querydetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1098,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ComicQueryManager.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\ComicQueryManager.cs",
               "RelativeDocumentMoniker": "WPF6\\ComicQueryManager.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\ComicQueryManager.cs",
               "RelativeToolTip": "WPF6\\ComicQueryManager.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwE8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T12:08:55.261Z",
               "IsPinned": true,
@@ -56,27 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPF6\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPF6\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T13:43:43.437Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "WPF6\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\MainPage.xaml.cs",
               "RelativeToolTip": "WPF6\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCAAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCYAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:52:07.874Z",
               "IsPinned": true,
@@ -84,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\MainPage.xaml",
               "RelativeDocumentMoniker": "WPF6\\MainPage.xaml",
@@ -97,29 +79,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ComicQuery.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\ComicQuery.cs",
-              "RelativeDocumentMoniker": "WPF6\\ComicQuery.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\ComicQuery.cs",
-              "RelativeToolTip": "WPF6\\ComicQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T07:26:07.787Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QueryDetail.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\QueryDetail.xaml.cs",
-              "RelativeDocumentMoniker": "WPF6\\QueryDetail.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\QueryDetail.xaml.cs",
-              "RelativeToolTip": "WPF6\\QueryDetail.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T12:36:28.573Z",
+              "WhenOpened": "2025-01-09T13:43:43.437Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -129,14 +97,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QueryDetail.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\QueryDetail.xaml",
-              "RelativeDocumentMoniker": "WPF6\\QueryDetail.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\QueryDetail.xaml",
-              "RelativeToolTip": "WPF6\\QueryDetail.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-09T12:35:36.145Z",
+              "DocumentIndex": 4,
+              "Title": "SuspensionManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\SuspensionManager.cs",
+              "RelativeDocumentMoniker": "WPF6\\SuspensionManager.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\SuspensionManager.cs",
+              "RelativeToolTip": "WPF6\\SuspensionManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:51:20.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueryDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\QueryDetail.xaml.cs",
+              "RelativeDocumentMoniker": "WPF6\\QueryDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\QueryDetail.xaml.cs",
+              "RelativeToolTip": "WPF6\\QueryDetail.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:36:28.573Z",
               "EditorCaption": ""
             }
           ]

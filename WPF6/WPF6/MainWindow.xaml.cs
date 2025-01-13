@@ -24,7 +24,30 @@ namespace WPF6
 
         public MainWindow()
         {
+            ComicQueryManager cqm = new ComicQueryManager();
+
+            SuspensionManager.RestoreAsync();
+
+
             InitializeComponent();
+
+            if (!String.IsNullOrEmpty(SuspensionManager.CurrentQuery))
+            {
+                Console.WriteLine("Test: " + SuspensionManager.CurrentQuery);
+                foreach (ComicQuery query in cqm.AvailableQueries)
+                {
+                    if (query.Title == SuspensionManager.CurrentQuery)
+                    {
+                        MainWindow.currQuery = query;
+                        mainFrame.Source = new Uri("/QueryDetail.xaml", UriKind.Relative);
+                    }
+                }
+            }
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            SuspensionManager.SaveAsync();
         }
     }
 }
