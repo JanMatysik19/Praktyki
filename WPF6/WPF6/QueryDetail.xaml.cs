@@ -46,8 +46,14 @@ namespace WPF6
             }
         }
 
+        ~QueryDetail()
+        {
+            SuspensionManager.CurrentQuery = null;
+        }
+
         private void backBtn_Click(object sender, RoutedEventArgs e)
         {
+            SuspensionManager.CurrentQuery = null;
             NavigationService.Navigate(new Uri("/MainPage.xaml", UriKind.Relative));
         }
 
@@ -63,5 +69,8 @@ namespace WPF6
                 listZoomed.Visibility = Visibility.Visible;
             }
         }
+
+
+        
     }
 }

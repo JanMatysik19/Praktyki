@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF6"
         mc:Ignorable="d"
-        Title="MainWindow" MinHeight="600" MinWidth="1000">
+        Title="MainWindow" MinHeight="600" MinWidth="1000"
+        Closing="Window_Closing">
 
     <Grid>
-        <Frame Source="/MainPage.xaml" />
+        <Frame Source="/MainPage.xaml" Name="mainFrame" />
     </Grid>
 </Window>
