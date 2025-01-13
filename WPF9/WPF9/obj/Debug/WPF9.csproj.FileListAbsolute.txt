@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\bin\Debug\WPF9.exe.config
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\bin\Debug\WPF9.exe
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\bin\Debug\WPF9.pdb
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\View\LeaguePage.g.cs
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\App.g.cs
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9_MarkupCompile.cache
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9_MarkupCompile.lref
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\MainWindow.baml
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\View\LeaguePage.baml
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.g.resources
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.exe
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.pdb
