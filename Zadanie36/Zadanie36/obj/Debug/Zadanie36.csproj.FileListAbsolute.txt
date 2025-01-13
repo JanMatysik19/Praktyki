@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\bin\Debug\Zadanie36.exe.config
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\bin\Debug\Zadanie36.exe
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\bin\Debug\Zadanie36.pdb
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\obj\Debug\Zadanie36.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\obj\Debug\Zadanie36.Form1.resources
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\obj\Debug\Zadanie36.Properties.Resources.resources
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\obj\Debug\Zadanie36.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\obj\Debug\Zadanie36.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\obj\Debug\Zadanie36.exe
+C:\Users\admin\Documents\Praktyki\Zadanie36\Zadanie36\obj\Debug\Zadanie36.pdb

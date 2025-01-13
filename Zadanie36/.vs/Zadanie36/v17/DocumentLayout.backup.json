@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie36\\zadanie36\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|solutionrelative:zadanie36\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie36\\zadanie36\\amy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|solutionrelative:zadanie36\\amy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie36\\zadanie36\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|solutionrelative:zadanie36\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie36\\zadanie36\\getsecretingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|solutionrelative:zadanie36\\getsecretingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|c:\\users\\admin\\documents\\praktyki\\zadanie36\\zadanie36\\suzanne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D909CC-4DD6-48CC-A41A-094D1155BF4D}|Zadanie36\\Zadanie36.csproj|solutionrelative:zadanie36\\suzanne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1098,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie36\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\Form1.cs",
+              "RelativeToolTip": "Zadanie36\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:24:56.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Amy.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\Amy.cs",
+              "RelativeDocumentMoniker": "Zadanie36\\Amy.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\Amy.cs",
+              "RelativeToolTip": "Zadanie36\\Amy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:21:32.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Suzanne.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\Suzanne.cs",
+              "RelativeDocumentMoniker": "Zadanie36\\Suzanne.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\Suzanne.cs",
+              "RelativeToolTip": "Zadanie36\\Suzanne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:18:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetSecretIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\GetSecretIngredient.cs",
+              "RelativeDocumentMoniker": "Zadanie36\\GetSecretIngredient.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\GetSecretIngredient.cs",
+              "RelativeToolTip": "Zadanie36\\GetSecretIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:14:19.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie36\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\Zadanie36\\Zadanie36\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Zadanie36\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:13:32.061Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 326,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
