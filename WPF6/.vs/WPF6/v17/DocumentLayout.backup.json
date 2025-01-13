@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|c:\\users\\admin\\documents\\praktyki\\wpf6\\wpf6\\querydetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\querydetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\querydetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\querydetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\comicquerymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\comicquerymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|c:\\users\\admin\\documents\\praktyki\\wpf6\\wpf6\\querydetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|solutionrelative:wpf6\\querydetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{493A2A35-7B23-412C-ACC4-53D957C50A73}|WPF6\\WPF6.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\wpf6\\comicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1098,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ComicQueryManager.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\ComicQueryManager.cs",
               "RelativeDocumentMoniker": "WPF6\\ComicQueryManager.cs",
@@ -111,13 +111,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QueryDetail.xaml.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\QueryDetail.xaml.cs",
               "RelativeDocumentMoniker": "WPF6\\QueryDetail.xaml.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\QueryDetail.xaml.cs",
               "RelativeToolTip": "WPF6\\QueryDetail.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T12:36:28.573Z",
               "IsPinned": true,
@@ -129,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "QueryDetail.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\QueryDetail.xaml",
               "RelativeDocumentMoniker": "WPF6\\QueryDetail.xaml",

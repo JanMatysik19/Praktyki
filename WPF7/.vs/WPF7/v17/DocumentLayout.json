@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\baseballsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\baseballsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\pitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\pitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1098,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fan.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Fan.cs",
+              "RelativeDocumentMoniker": "WPF7\\Fan.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Fan.cs",
+              "RelativeToolTip": "WPF7\\Fan.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:23:42.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pitcher.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Pitcher.cs",
+              "RelativeDocumentMoniker": "WPF7\\Pitcher.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Pitcher.cs",
+              "RelativeToolTip": "WPF7\\Pitcher.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:09:27.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Ball.cs",
+              "RelativeDocumentMoniker": "WPF7\\Ball.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Ball.cs",
+              "RelativeToolTip": "WPF7\\Ball.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:10:04.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseballSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\BaseballSimulator.cs",
+              "RelativeDocumentMoniker": "WPF7\\BaseballSimulator.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\BaseballSimulator.cs",
+              "RelativeToolTip": "WPF7\\BaseballSimulator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vx4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:22:53.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WPF7\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\MainPage.xaml",
+              "RelativeToolTip": "WPF7\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T07:33:16.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WPF7\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\MainPage.xaml.cs",
+              "RelativeToolTip": "WPF7\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:00:52.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF7\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF7\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:08:42.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 326,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
