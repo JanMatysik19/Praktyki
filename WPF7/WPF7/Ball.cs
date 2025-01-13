@@ -9,10 +9,16 @@ namespace WPF7
     internal class Ball
     {
         public event EventHandler BallInPlay;
-        public void OnBallInPlay(BallEventArgs e)
+        protected void OnBallInPlay(BallEventArgs e)
         {
             EventHandler ballInPlay = BallInPlay;
             if(BallInPlay != null) ballInPlay(this, e);
+        }
+
+
+        public Bat GetNewBat()
+        {
+            return new Bat(new BatCallback(OnBallInPlay));
         }
     }
 
