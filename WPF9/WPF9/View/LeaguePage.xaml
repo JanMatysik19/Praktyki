@@ -4,27 +4,23 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:WPF9.View"
+      xmlns:view="clr-namespace:WPF9.View"
+      xmlns:viewmodel="clr-namespace:WPF9.ViewModel"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="LeaguePage"
       Background="#fafafa">
 
     <Page.Resources>
-        <Style TargetType="TextBlock" x:Key="Title">
+        <viewmodel:LeagueViewModel x:Name="LeagueModel" x:Key="LeagueModel" />
+
+        <Style TargetType="TextBlock" x:Key="TitleTB">
             <Setter Property="FontSize" Value="36" />
-        </Style>
-
-        <Style TargetType="TextBlock" x:Key="Team">
-            <Setter Property="FontSize" Value="28" />
-        </Style>
-
-        <Style TargetType="Label" x:Key="Label">
-            <Setter Property="FontSize" Value="17" />
         </Style>
     </Page.Resources>
     
 
-    <Grid>
+    <Grid DataContext="{StaticResource ResourceKey=LeagueModel}">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="120" />
             <ColumnDefinition />
@@ -41,28 +37,10 @@
         </Grid.RowDefinitions>
 
 
-        <TextBlock Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3" Text="Liga Koszykówka. Rusz głową" Style="{StaticResource Title}" />
+        <TextBlock Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3" Text="Liga Koszykówka. Rusz głową" Style="{StaticResource TitleTB}" />
 
+        <local:RosterControl Grid.Column="1" Grid.Row="3" x:Name="tJimmy" Margin="0,0,20,0" DataContext="{Binding JimmysTeam}" />
 
-        <StackPanel Grid.Column="1" Grid.Row="3">
-            <TextBlock Text="Wspaniali" Style="{StaticResource Team}" />
-
-            <Label Content="Na parkiecie" Style="{StaticResource Label}" />
-            <ListView Name="leftList1" Height="Auto"  />
-
-            <Label Content="Na ławce" Style="{StaticResource Label}" />
-            <ListView Name="leftList2" Height="Auto" />
-        </StackPanel>
-
-        
-        <StackPanel Grid.Column="3" Grid.Row="3">
-            <TextBlock Text="Wspaniali" Style="{StaticResource Team}" />
-
-            <Label Content="Na parkiecie" Style="{StaticResource Label}" />
-            <ListView Name="rightList1" Height="Auto"  />
-
-            <Label Content="Na ławce" Style="{StaticResource Label}" />
-            <ListView Name="rightList2" Height="Auto" />
-        </StackPanel>
+        <local:RosterControl Grid.Column="3" Grid.Row="3" x:Name="tBrians" Margin="0,0,20,0" DataContext="{Binding BriansTeam}" />
     </Grid>
 </Page>

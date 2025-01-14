@@ -12,25 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WPF9.ViewModel;
 
 namespace WPF9.View
 {
     /// <summary>
-    /// Logika interakcji dla klasy LeaguePage.xaml
+    /// Logika interakcji dla klasy RosterControl.xaml
     /// </summary>
-    public partial class LeaguePage : Page
+    public partial class RosterControl : UserControl
     {
-        //LeagueViewModel leagueViewModel;
-
-        public LeaguePage()
+        public RosterControl()
         {
             InitializeComponent();
-
-            //leagueViewModel = new LeagueViewModel();
-
-            //tJimmy.DataContext = leagueViewModel.JimmysTeam;
-            //tBrians.DataContext = leagueViewModel.BriansTeam;
         }
     }
 }

@@ -15,3 +15,6 @@ C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.csproj.GenerateResour
 C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.csproj.CoreCompileInputs.cache
 C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.exe
 C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\WPF9.pdb
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\View\RosterControl.g.cs
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\Praktyki\WPF9\WPF9\obj\Debug\View\RosterControl.baml
