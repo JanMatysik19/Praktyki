@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|c:\\users\\admin\\documents\\praktyki\\wpf10\\wpf10\\view\\basicstopwatch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|solutionrelative:wpf10\\view\\basicstopwatch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|c:\\users\\admin\\documents\\praktyki\\wpf10\\wpf10\\view\\basicstopwatch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|solutionrelative:wpf10\\view\\basicstopwatch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|c:\\users\\admin\\documents\\praktyki\\wpf10\\wpf10\\viewmodel\\timenumberformatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|solutionrelative:wpf10\\viewmodel\\timenumberformatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|c:\\users\\admin\\documents\\praktyki\\wpf10\\wpf10\\model\\stopwatchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|solutionrelative:wpf10\\model\\stopwatchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|c:\\users\\admin\\documents\\praktyki\\wpf10\\wpf10\\viewmodel\\stopwatchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|solutionrelative:wpf10\\viewmodel\\stopwatchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|c:\\users\\admin\\documents\\praktyki\\wpf10\\wpf10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|solutionrelative:wpf10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|c:\\users\\admin\\documents\\praktyki\\wpf10\\wpf10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA648E77-7E6D-49FB-88D7-5B03BD175202}|WPF10\\WPF10.csproj|solutionrelative:wpf10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1098,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeNumberFormatConverter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\ViewModel\\TimeNumberFormatConverter.cs",
+              "RelativeDocumentMoniker": "WPF10\\ViewModel\\TimeNumberFormatConverter.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\ViewModel\\TimeNumberFormatConverter.cs",
+              "RelativeToolTip": "WPF10\\ViewModel\\TimeNumberFormatConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:54:35.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View\\BasicStopwatch.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\View\\BasicStopwatch.xaml.cs",
+              "RelativeDocumentMoniker": "WPF10\\View\\BasicStopwatch.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\View\\BasicStopwatch.xaml.cs",
+              "RelativeToolTip": "WPF10\\View\\BasicStopwatch.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:25:13.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicStopwatch.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\View\\BasicStopwatch.xaml",
+              "RelativeDocumentMoniker": "WPF10\\View\\BasicStopwatch.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\View\\BasicStopwatch.xaml",
+              "RelativeToolTip": "WPF10\\View\\BasicStopwatch.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T10:16:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StopwatchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\ViewModel\\StopwatchViewModel.cs",
+              "RelativeDocumentMoniker": "WPF10\\ViewModel\\StopwatchViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\ViewModel\\StopwatchViewModel.cs",
+              "RelativeToolTip": "WPF10\\ViewModel\\StopwatchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:19:09.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StopWatchModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\Model\\StopWatchModel.cs",
+              "RelativeDocumentMoniker": "WPF10\\Model\\StopWatchModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\Model\\StopWatchModel.cs",
+              "RelativeToolTip": "WPF10\\Model\\StopWatchModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:57:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF10\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\MainWindow.xaml",
+              "RelativeToolTip": "WPF10\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T09:54:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF10\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF10\\WPF10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF10\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:54:20.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 326,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
