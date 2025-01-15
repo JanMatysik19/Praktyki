@@ -1,0 +1,29 @@
+﻿<Page x:Class="WPF12.View.BeesOnAStarryNight"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF12.View"
+      xmlns:view="clr-namespace:WPF12.View"
+      xmlns:viewmodel="clr-namespace:WPF12.ViewModel"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="BeesOnAStarryNight">
+
+    <Page.Resources>
+        <viewmodel:BeeStarViewModel x:Name="viewModel" x:Key="viewModel" />
+    </Page.Resources>
+
+
+    <Grid>
+        <ItemsControl DataContext="{StaticResource viewModel}"
+                  ItemsSource="{Binding Path=Sprites}"
+                  Grid.Row="1" Margin="120,0,120,120">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Canvas Background="Blue" SizeChanged="SizeChangedHandler" />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+        </ItemsControl>
+    </Grid>
+</Page>
