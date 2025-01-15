@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\admin\Documents\Praktyki\WPF10\WPF10\App.xaml
-2590979593
+3159501857
 
-121824846067
+14-1107492192
 13-1310406943
-MainWindow.xaml;View\BasicStopwatch.xaml;
+MainWindow.xaml;View\AnalogStopWatch.xaml;View\BasicStopwatch.xaml;
 
-False
+True
 

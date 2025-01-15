@@ -15,25 +15,56 @@
         <viewmodel:BooleanNotConverter x:Name="notConverter" x:Key="notConverter" />
         <viewmodel:BooleanVisibilityConverter x:Name="visibilityConverter" x:Key="visibilityConverter" />
 
+        <ControlTemplate x:Key="StandardBtnTemplate" TargetType="Button">
+            <Grid>
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualState x:Name="Normal">
+                            <Storyboard>
+                                <DoubleAnimation
+                                    Storyboard.TargetName="BackgroundBorder"
+                                    Storyboard.TargetProperty="Opacity"
+                                    To="1"
+                                    Duration="0:0:0.5" />
+                            </Storyboard>
+                        </VisualState>
+                        <VisualState x:Name="Disabled">
+                            <Storyboard>
+                                <DoubleAnimation
+                                    Storyboard.TargetName="BackgroundBorder"
+                                    Storyboard.TargetProperty="Opacity"
+                                    To="0.5"
+                                    Duration="0:0:0.5" />
+                            </Storyboard>
+                        </VisualState>
+                        <VisualState x:Name="Focused">
+                            <Storyboard>
+                                <DoubleAnimation
+                                    Storyboard.TargetName="BackgroundBorder"
+                                    Storyboard.TargetProperty="Opacity"
+                                    From="0"
+                                    To="1"
+                                    Duration="0:0:0.5"
+                                    AutoReverse="True"
+                                    RepeatBehavior="Forever" />
+                            </Storyboard>
+                        </VisualState>
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+
+                <Border x:Name="BackgroundBorder" Width="65" Height="65"
+                    Background="Transparent"
+                    BorderBrush="Black"
+                    Margin="10"
+                    BorderThickness="2"
+                    CornerRadius="100" />
+                <TextBlock Text="{TemplateBinding Content}" FontSize="13" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Center"
+                    VerticalAlignment="Center" />
+                </Grid>
+        </ControlTemplate>
         
-        <VisualStateGroup x:Name="CommonStates">
-            <VisualState x:Name="Focused">
-                <Storyboard>
-                    <DoubleAnimation
-                        Storyboard.TargetName="FocusVisualWhite"
-                        Storyboard.TargetProperty="Opacity"
-                        To="1"
-                        AutoReverse="True"
-                        RepeatBehavior="Forever" />
-                    <DoubleAnimation
-                        Storyboard.TargetName="FocusVisualBlack"
-                        Storyboard.TargetProperty="Opacity"
-                        To="1"
-                        AutoReverse="True"
-                        RepeatBehavior="Forever" />
-                </Storyboard>
-            </VisualState>
-        </VisualStateGroup>
+        
+
     </UserControl.Resources>
     
     
@@ -59,12 +90,12 @@
             </TextBlock>
 
             <StackPanel Orientation="Horizontal">
-                <Button IsEnabled="{Binding Running, Converter={StaticResource notConverter}}" Click="StartButton_Click">Start</Button>
-                
-                
-                <Button IsEnabled="{Binding Running}" Click="StopButton_Click">Stop</Button>
-                <Button Click="ResetBtton_Click">Zeruj</Button>
-                <Button IsEnabled="{Binding Running}" Click="LapBtton_Click">Okrążenie</Button>
+                <Button x:Name="btn1" Template="{StaticResource StandardBtnTemplate}" IsEnabled="{Binding Running, Converter={StaticResource notConverter}}" Click="StartButton_Click" Content="Start"/>
+
+
+                <Button IsEnabled="{Binding Running}" Template="{StaticResource StandardBtnTemplate}" Click="StopButton_Click">Stop</Button>
+                <Button Template="{StaticResource StandardBtnTemplate}" Click="ResetButton_Click">Zeruj</Button>
+                <Button Template="{StaticResource StandardBtnTemplate}" IsEnabled="{Binding Running}" Click="LapButton_Click">Okrążenie</Button>
             </StackPanel>
             <TextBlock Text="Stoper działa" Visibility="{Binding Running, Converter={StaticResource visibilityConverter}}" />
         </StackPanel>

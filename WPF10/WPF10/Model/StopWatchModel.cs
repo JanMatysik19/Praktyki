@@ -21,8 +21,8 @@ namespace WPF10.Model
             get
             {
                 if (_started.HasValue)
-                    if (_previousElapsedTime.HasValue) return CalculateTimeElapsedSinceStarted() + _previousElapsedTime;
-                    else return CalculateTimeElapsedSinceStarted();
+                    //if (_previousElapsedTime.HasValue) return CalculateTimeElapsedSinceStarted() + _previousElapsedTime;
+                    /*else*/ return CalculateTimeElapsedSinceStarted();
                 else return _previousElapsedTime;
             }
         }
@@ -45,7 +45,8 @@ namespace WPF10.Model
 
         public void Stop()
         {
-            if(_started.HasValue) _previousElapsedTime += DateTime.Now - _started.Value;
+            Console.WriteLine("brr");
+            if (_started.HasValue) _previousElapsedTime = DateTime.Now - _started.Value;
             _started = null;
         }
 

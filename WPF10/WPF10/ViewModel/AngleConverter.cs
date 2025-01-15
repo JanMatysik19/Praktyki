@@ -4,17 +4,27 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows;
 using System.Windows.Data;
 
 namespace WPF10.ViewModel
 {
-    internal class BooleanVisibilityConverter : IValueConverter
+    internal class AngleConverter : IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            if ((value is bool) && ((bool)value) == true) return Visibility.Visible;
-            else return Visibility.Collapsed;
+            double parsedValue;
+            if((value != null)
+                && double.TryParse(value.ToString(), out parsedValue)
+                && (parameter != null)) {
+                switch(parameter.ToString())
+                {
+                    case "Hours": return parsedValue * 30;
+                    case "Minutes":
+                    case "Seconds": return parsedValue * 6;
+                }
+            }
+
+            return 0;
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)

@@ -22,7 +22,8 @@ namespace WPF10.ViewModel
             _timer.Interval = TimeSpan.FromMilliseconds(50);
             _timer.Tick += TimerTick;
             _timer.Start();
-            Start();
+            Console.WriteLine("START");
+            //Start();
 
             _stopwatchModel.LapTimeUpdated += LapTimeUpdatedEventHandler;
         }
@@ -97,7 +98,7 @@ namespace WPF10.ViewModel
         {
             get
             { 
-                if(_stopwatchModel.Elapsed.HasValue) return (decimal)_stopwatchModel.Elapsed.Value.Seconds + (_stopwatchModel.Elapsed.Value.Milliseconds * 0.001M);
+                if(_stopwatchModel.Elapsed.HasValue) return _stopwatchModel.Elapsed.Value.Seconds + (_stopwatchModel.Elapsed.Value.Milliseconds * 0.001M);
                 else return 0.0M;
             }
             set { }

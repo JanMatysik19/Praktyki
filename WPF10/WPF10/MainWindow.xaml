@@ -7,7 +7,7 @@
         xmlns:view="clr-namespace:WPF10.View"
         xmlns:viewmodel="clr-namespace:WPF10.ViewModel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="593" Width="800">
 
 
     <Window.Resources>
@@ -28,12 +28,15 @@
             <RowDefinition Height="50" />
             <RowDefinition Height="Auto" />
             <RowDefinition Height="15" />
-            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
             <RowDefinition Height="50" />
         </Grid.RowDefinitions>
 
         <TextBlock Text="Stoper" Grid.Column="1" Grid.Row="1" Style="{StaticResource TitleTB}" />
 
         <view:BasicStopwatch Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" />
+
+        <view:AnalogStopWatch Grid.Column="1" Grid.Row="4" HorizontalAlignment="Center" />
     </Grid>
 </Window>
