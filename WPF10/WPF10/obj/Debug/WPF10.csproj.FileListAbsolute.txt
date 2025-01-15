@@ -16,3 +16,5 @@ C:\Users\admin\Documents\Praktyki\WPF10\WPF10\obj\Debug\WPF10.csproj.GenerateRes
 C:\Users\admin\Documents\Praktyki\WPF10\WPF10\obj\Debug\WPF10.csproj.CoreCompileInputs.cache
 C:\Users\admin\Documents\Praktyki\WPF10\WPF10\obj\Debug\WPF10.exe
 C:\Users\admin\Documents\Praktyki\WPF10\WPF10\obj\Debug\WPF10.pdb
+C:\Users\admin\Documents\Praktyki\WPF10\WPF10\obj\Debug\View\AnalogStopWatch.g.cs
+C:\Users\admin\Documents\Praktyki\WPF10\WPF10\obj\Debug\View\AnalogStopWatch.baml
