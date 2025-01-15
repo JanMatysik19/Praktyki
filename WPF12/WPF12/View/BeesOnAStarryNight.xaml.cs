@@ -9,26 +9,28 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPF12.ViewModel;
 
-namespace WPF11
+namespace WPF12.View
 {
     /// <summary>
-    /// Logika interakcji dla klasy MainWindow.xaml
+    /// Logika interakcji dla klasy BeesOnAStarryNight.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class BeesOnAStarryNight : Page
     {
-        public MainWindow()
+        BeeStarViewModel beeStarViewModel;
+
+        public BeesOnAStarryNight()
         {
             InitializeComponent();
         }
 
         private void SizeChangedHandler(object sender, SizeChangedEventArgs e)
         {
-
+            beeStarViewModel = this.Resources["viewModel"] as BeeStarViewModel;
         }
     }
 }

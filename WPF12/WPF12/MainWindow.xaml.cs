@@ -9,12 +9,11 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF11
+namespace WPF12
 {
     /// <summary>
     /// Logika interakcji dla klasy MainWindow.xaml
@@ -24,11 +23,6 @@ namespace WPF11
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void SizeChangedHandler(object sender, SizeChangedEventArgs e)
-        {
-
         }
     }
 }
