@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\wpf7\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\wpf7\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\baseballsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\wpf7\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|c:\\users\\admin\\documents\\praktyki\\wpf7\\wpf7\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|solutionrelative:wpf7\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7A247CB-3020-4ACA-80B0-E8884EE10A97}|WPF7\\WPF7.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\wpf7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1098,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bat.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Bat.cs",
               "RelativeDocumentMoniker": "WPF7\\Bat.cs",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "WPF7\\Bat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T12:53:25.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T12:53:25.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Fan.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Fan.cs",
               "RelativeDocumentMoniker": "WPF7\\Fan.cs",
@@ -71,12 +70,11 @@
               "RelativeToolTip": "WPF7\\Fan.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwCMAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T07:23:42.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T07:23:42.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Pitcher.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Pitcher.cs",
               "RelativeDocumentMoniker": "WPF7\\Pitcher.cs",
@@ -84,12 +82,11 @@
               "RelativeToolTip": "WPF7\\Pitcher.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwBgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T07:09:27.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T07:09:27.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\Ball.cs",
               "RelativeDocumentMoniker": "WPF7\\Ball.cs",
@@ -102,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BaseballSimulator.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\BaseballSimulator.cs",
               "RelativeDocumentMoniker": "WPF7\\BaseballSimulator.cs",
@@ -110,12 +107,11 @@
               "RelativeToolTip": "WPF7\\BaseballSimulator.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAcwCEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T07:22:53.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T07:22:53.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF7\\WPF7\\MainPage.xaml",
               "RelativeDocumentMoniker": "WPF7\\MainPage.xaml",
