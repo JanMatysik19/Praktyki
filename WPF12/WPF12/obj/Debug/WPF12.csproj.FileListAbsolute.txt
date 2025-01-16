@@ -16,3 +16,7 @@ C:\Users\admin\Documents\Praktyki\WPF12\WPF12\obj\Debug\WPF12.csproj.GenerateRes
 C:\Users\admin\Documents\Praktyki\WPF12\WPF12\obj\Debug\WPF12.csproj.CoreCompileInputs.cache
 C:\Users\admin\Documents\Praktyki\WPF12\WPF12\obj\Debug\WPF12.exe
 C:\Users\admin\Documents\Praktyki\WPF12\WPF12\obj\Debug\WPF12.pdb
+C:\Users\admin\Documents\Praktyki\WPF12\WPF12\obj\Debug\View\AnimatedImage.g.cs
+C:\Users\admin\Documents\Praktyki\WPF12\WPF12\obj\Debug\View\StarControl.g.cs
+C:\Users\admin\Documents\Praktyki\WPF12\WPF12\obj\Debug\View\AnimatedImage.baml
+C:\Users\admin\Documents\Praktyki\WPF12\WPF12\obj\Debug\View\StarControl.baml

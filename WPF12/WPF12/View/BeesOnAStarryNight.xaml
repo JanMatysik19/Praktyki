@@ -18,7 +18,7 @@
     <Grid>
         <ItemsControl DataContext="{StaticResource viewModel}"
                   ItemsSource="{Binding Path=Sprites}"
-                  Grid.Row="1" Margin="120,0,120,120">
+                  Grid.Row="1">
             <ItemsControl.ItemsPanel>
                 <ItemsPanelTemplate>
                     <Canvas Background="Blue" SizeChanged="SizeChangedHandler" />

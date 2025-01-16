@@ -21,7 +21,7 @@ namespace WPF12.View
     /// </summary>
     public partial class BeesOnAStarryNight : Page
     {
-        BeeStarViewModel beeStarViewModel;
+        BeeStarViewModel viewModel;
 
         public BeesOnAStarryNight()
         {
@@ -30,7 +30,8 @@ namespace WPF12.View
 
         private void SizeChangedHandler(object sender, SizeChangedEventArgs e)
         {
-            beeStarViewModel = this.Resources["viewModel"] as BeeStarViewModel;
+            viewModel = this.Resources["viewModel"] as BeeStarViewModel;
+            viewModel.PlayAreaSize = new Size(e.NewSize.Width, e.NewSize.Height);
         }
     }
 }
