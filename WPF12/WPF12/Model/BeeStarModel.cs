@@ -68,7 +68,7 @@ namespace WPF12.Model
                     Point location = FindNonOverlappingPoint(size);
 
                     Bee bee = new Bee(location, size);
-                    _bees.Add(bee, location);
+                    _bees[bee] = location;
                     OnBeeMoved(bee, location.X, location.Y);
                 }
             }
@@ -83,7 +83,7 @@ namespace WPF12.Model
                 foreach (Star st in _stars.Keys.ToList())
                 {
                     st.Location = FindNonOverlappingPoint(StarSize);
-                    OnStarChanged(Star, false);
+                    OnStarChanged(st, false);
                 }
             }
             else
@@ -98,7 +98,7 @@ namespace WPF12.Model
         {
             Point location = FindNonOverlappingPoint(StarSize);
             Star star = new Star(location);
-            _stars.Add(star, new Point(location.X, location.Y));
+            _stars[star] = new Point(location.X, location.Y);
             OnStarChanged(star, false);
         }
 
@@ -136,13 +136,41 @@ namespace WPF12.Model
             }
 
             bee.Location = FindNonOverlappingPoint(bee.Size);
-            _bees.Add(bee, bee.Location);
+            _bees[bee] = bee.Location;
             OnBeeMoved(bee, bee.Location.X, bee.Location.Y);
         }
 
         private void AddOrRemoveAStar()
         {
-            // KONIEC
+            if (((_random.Next(2) == 0) || (_stars.Count() <= 5)) & (_stars.Count < 20)) CreateAStar();
+            else
+            {
+                Star starToRemove = _stars.Keys.ToList()[_random.Next(_stars.Count)];
+                _stars.Remove(starToRemove);
+                OnStarChanged(starToRemove, true);
+            }
+        }
+
+
+        public event EventHandler<BeeMovedEventArgs> BeeMoved;
+        private void OnBeeMoved(Bee beeThatMoved, double x, double y)
+        {
+            EventHandler<BeeMovedEventArgs> beeMoved = BeeMoved;
+            if(beeMoved != null)
+            {
+                beeMoved(this, new BeeMovedEventArgs(beeThatMoved, x, y));
+            }
+        }
+
+
+        public event EventHandler<StarChangedEventArgs> StarChanged;
+        private void OnStarChanged(Star starThatChanged, bool removed)
+        {
+            EventHandler<StarChangedEventArgs> starChanged = StarChanged;
+            if(starChanged != null)
+            {
+                starChanged(this, new StarChangedEventArgs(starThatChanged, removed));
+            }
         }
     }
 }

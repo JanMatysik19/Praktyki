@@ -10,12 +10,12 @@
     <UserControl.Resources>
         <Storyboard x:Name="fadeInStoryboard" x:Key="fadeInStoryboard">
         <DoubleAnimation From="0" To="1" Storyboard.TargetName="starPolygon"
-                             Storyboard.TargetProperty="Opacity" Duration="0:0:1.5" />
+            Storyboard.TargetProperty="Opacity" Duration="0:0:1.5" />
         </Storyboard>
 
         <Storyboard x:Name="fadeOutStoryboard" x:Key="fadeOutStoryboard">
             <DoubleAnimation From="1" To="0" Storyboard.TargetName="starPolygon"
-                             Storyboard.TargetProperty="Opacity" Duration="0:0:1.5" />
+                Storyboard.TargetProperty="Opacity" Duration="0:0:1.5" />
         </Storyboard>
     </UserControl.Resources>
 
