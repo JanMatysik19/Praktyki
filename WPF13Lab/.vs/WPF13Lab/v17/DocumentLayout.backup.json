@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\view\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\viewmodel\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\viewmodel\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\view\\starcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\starcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\view\\starcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\starcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +25,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1058,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 907,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,33 +34,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WPF13Lab\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\MainWindow.xaml",
-              "RelativeToolTip": "WPF13Lab\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-16T08:57:58.64Z",
+              "DocumentIndex": 1,
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\ViewModel\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "WPF13Lab\\ViewModel\\GameViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\ViewModel\\GameViewModel.cs",
+              "RelativeToolTip": "WPF13Lab\\ViewModel\\GameViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:53:13.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPF13Lab\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPF13Lab\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GameView.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\GameView.xaml",
+              "RelativeDocumentMoniker": "WPF13Lab\\View\\GameView.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\GameView.xaml",
+              "RelativeToolTip": "WPF13Lab\\View\\GameView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T09:59:35.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StarControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\StarControl.xaml.cs",
+              "RelativeDocumentMoniker": "WPF13Lab\\View\\StarControl.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\StarControl.xaml.cs",
+              "RelativeToolTip": "WPF13Lab\\View\\StarControl.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:57:58.572Z",
+              "WhenOpened": "2025-01-16T09:51:37.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StarControl.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\StarControl.xaml",
+              "RelativeDocumentMoniker": "WPF13Lab\\View\\StarControl.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\StarControl.xaml",
+              "RelativeToolTip": "WPF13Lab\\View\\StarControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T09:39:46.089Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 366,
+          "DockedWidth": 517,
           "SelectedChildIndex": -1,
           "Children": [
             {

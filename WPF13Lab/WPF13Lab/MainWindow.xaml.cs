@@ -23,6 +23,9 @@ namespace WPF13Lab
         public MainWindow()
         {
             InitializeComponent();
+
+
+            
         }
     }
 }
