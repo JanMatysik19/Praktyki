@@ -8,8 +8,9 @@
       xmlns:viewmodel="clr-namespace:WPF13Lab.ViewModel"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
+      d:MinHeight="600" d:MinWidth="850"
       Title="GameView"
-      Background="#1e1f21" KeyDown="game_KeyDown" >
+      Background="#1e1f21" Loaded="loaded" >
 
     <Page.Resources>
         <viewmodel:GameViewModel x:Name="viewModel" x:Key="viewModel" />
@@ -24,6 +25,32 @@
             <Setter Property="Foreground" Value="Snow" />
             <Setter Property="FontSize" Value="20" />
         </Style>
+
+
+        <ControlTemplate x:Key="MenuButtonTemplate" TargetType="Button">
+            <StackPanel Width="Auto" Height="Auto" HorizontalAlignment="Center">
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup>
+                        <VisualState x:Name="Normal">
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetName="btnUnderline" Storyboard.TargetProperty="Opacity"
+                            From="1" To="0" Duration="0:0:0.2" />
+                            </Storyboard>
+                        </VisualState>
+
+                        <VisualState x:Name="MouseOver">
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetName="btnUnderline" Storyboard.TargetProperty="Opacity"
+                            From="0" To="1" Duration="0:0:0.2" />
+                            </Storyboard>
+                        </VisualState>
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+
+                <TextBlock Text="{TemplateBinding Content}" Height="Auto" FontSize="42" Foreground="WhiteSmoke" FontFamily="Impact" />
+                <StackPanel Width="Auto" Height="4" Background="WhiteSmoke" x:Name="btnUnderline" Margin="0,2,0,0" Opacity="0" />
+            </StackPanel>
+        </ControlTemplate>
     </Page.Resources>
     
     
@@ -44,7 +71,8 @@
             <RowDefinition Height="3*" />
             <RowDefinition Height="15" />
         </Grid.RowDefinitions>
-
+        
+        
 
         <TextBlock Grid.Row="1" Grid.Column="1" Text="Invaders" Style="{StaticResource TitleFB}" />
 
@@ -60,5 +88,27 @@
             Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="3" >
             <Canvas SizeChanged="canvas_SizeChanged" />
         </Border>
+
+
+
+
+        <Grid Background="#CC3E3E3E" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="5" Grid.RowSpan="5" x:Name="menu" Visibility="Hidden">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="120" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="20" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="10" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="10" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Image Source="../Assets/logo.png" Grid.Row="1" Width="550" />
+
+            <Button x:Name="startBtn" Click="startBtn_Click" HorizontalAlignment="Center" Grid.Row="3" Content="KONTYNUUJ" Template="{StaticResource MenuButtonTemplate}" />
+            <Button x:Name="exitToMenuBtn" Click="exitToMenuBtn_Click" HorizontalAlignment="Center" Grid.Row="5" Content="WYJDŹ DO MENU" Template="{StaticResource MenuButtonTemplate}" />
+            <Button x:Name="exitBtn" Click="exitBtn_Click" HorizontalAlignment="Center" Grid.Row="7" Content="WYJDŹ" Template="{StaticResource MenuButtonTemplate}" />
+        </Grid>
     </Grid>
 </Page>

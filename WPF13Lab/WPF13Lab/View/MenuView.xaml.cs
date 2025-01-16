@@ -20,10 +20,14 @@ namespace WPF13Lab.View
     /// </summary>
     public partial class MenuView : Page
     {
+
         public MenuView()
         {
             InitializeComponent();
         }
+
+        
+
 
         private void startBtn_Click(object sender, RoutedEventArgs e)
         {
