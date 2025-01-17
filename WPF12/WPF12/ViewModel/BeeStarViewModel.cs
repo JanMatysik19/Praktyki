@@ -17,8 +17,10 @@ namespace WPF12.ViewModel
         private readonly ObservableCollection<UIElement> _sprites = new ObservableCollection<UIElement>();
         public INotifyCollectionChanged Sprites { get { return _sprites; } }
         private readonly Dictionary<Star, StarControl> _stars = new Dictionary<Star, StarControl>();
+
         private readonly List<StarControl> _fadedStars = new List<StarControl>();
         private BeeStarModel _model = new BeeStarModel();
+
         private readonly Dictionary<Bee, AnimatedImage> _bees = new Dictionary<Bee, AnimatedImage>();
         private DispatcherTimer _timer = new DispatcherTimer();
 
