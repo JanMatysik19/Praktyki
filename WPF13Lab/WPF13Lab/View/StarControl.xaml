@@ -9,12 +9,12 @@
 
     <UserControl.Resources>
         <Storyboard x:Name="sparkle" x:Key="sparkle">
-            <DoubleAnimation From="1" To="0" Storyboard.TargetName="starPolygon"
-        Storyboard.TargetProperty="Opacity" Duration="0:0:1.5" AutoReverse="True" RepeatBehavior="Forever" />
+            <DoubleAnimation From="0.2" To="1" Storyboard.TargetName="starPolygon"
+                Storyboard.TargetProperty="Opacity" Duration="0:0:1.5" AutoReverse="True" RepeatBehavior="Forever" />
         </Storyboard>
     </UserControl.Resources>
 
     <Grid>
-        <Polygon Points="0,6 4,8 6,12 8,8 12,6 8,4 6,0 4,4" Fill="Snow" x:Name="starPolygon" />
+        <Polygon Points="0,6 4,8 6,12 8,8 12,6 8,4 6,0 4,4" Fill="Snow" x:Name="starPolygon" Opacity="0.6" />
     </Grid>
 </UserControl>

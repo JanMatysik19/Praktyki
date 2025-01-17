@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\wpf12\\view\\starcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\view\\starcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|c:\\users\\admin\\documents\\praktyki\\wpf12\\wpf12\\model\\beestarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\model\\beestarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\wpf12\\view\\beesonastarrynight.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\view\\beesonastarrynight.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\wpf12\\viewmodel\\beestarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\viewmodel\\beestarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\wpf12\\view\\beesonastarrynight.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\view\\beesonastarrynight.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\wpf12\\viewmodel\\beestarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\viewmodel\\beestarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|c:\\users\\admin\\documents\\praktyki\\wpf12\\wpf12\\view\\starcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\view\\starcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\wpf12\\view\\starcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\view\\starcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\wpf12\\view\\beesonastarrynight.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\view\\beesonastarrynight.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\wpf12\\view\\beestarhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\view\\beestarhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\wpf12\\model\\beestarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B0C71-AC08-4B94-A6E0-105A710761C7}|WPF12\\WPF12.csproj|solutionrelative:wpf12\\model\\beestarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1058,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +47,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "BeeStarHelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\View\\BeeStarHelper.cs",
+              "RelativeDocumentMoniker": "WPF12\\View\\BeeStarHelper.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\View\\BeeStarHelper.cs",
+              "RelativeToolTip": "WPF12\\View\\BeeStarHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:10:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StarControl.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\View\\StarControl.xaml",
               "RelativeDocumentMoniker": "WPF12\\View\\StarControl.xaml",
@@ -54,20 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StarControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\View\\StarControl.xaml.cs",
               "RelativeDocumentMoniker": "WPF12\\View\\StarControl.xaml.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\View\\StarControl.xaml.cs",
               "RelativeToolTip": "WPF12\\View\\StarControl.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T13:16:36.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BeesOnAStarryNight.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\View\\BeesOnAStarryNight.xaml",
               "RelativeDocumentMoniker": "WPF12\\View\\BeesOnAStarryNight.xaml",
@@ -79,42 +95,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "BeeStarViewModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\ViewModel\\BeeStarViewModel.cs",
               "RelativeDocumentMoniker": "WPF12\\ViewModel\\BeeStarViewModel.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\ViewModel\\BeeStarViewModel.cs",
               "RelativeToolTip": "WPF12\\ViewModel\\BeeStarViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwDkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T12:31:53.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BeesOnAStarryNight.xaml.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\View\\BeesOnAStarryNight.xaml.cs",
               "RelativeDocumentMoniker": "WPF12\\View\\BeesOnAStarryNight.xaml.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\View\\BeesOnAStarryNight.xaml.cs",
               "RelativeToolTip": "WPF12\\View\\BeesOnAStarryNight.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T12:40:52.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T12:40:52.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BeeStarModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\Model\\BeeStarModel.cs",
               "RelativeDocumentMoniker": "WPF12\\Model\\BeeStarModel.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF12\\WPF12\\Model\\BeeStarModel.cs",
               "RelativeToolTip": "WPF12\\Model\\BeeStarModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwB0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:16:56.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T13:16:56.722Z"
             }
           ]
         },

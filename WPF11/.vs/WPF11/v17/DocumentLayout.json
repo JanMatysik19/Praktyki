@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\wpf11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|solutionrelative:wpf11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\wpf11\\view\\animatedimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|solutionrelative:wpf11\\view\\animatedimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\wpf11\\viewmodel\\beeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|solutionrelative:wpf11\\viewmodel\\beeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\wpf11\\view\\animatedimage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|solutionrelative:wpf11\\view\\animatedimage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|c:\\users\\admin\\documents\\praktyki\\wpf11\\wpf11\\viewmodel\\beeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|solutionrelative:wpf11\\viewmodel\\beeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\wpf11\\view\\beehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|solutionrelative:wpf11\\view\\beehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|c:\\users\\admin\\documents\\praktyki\\wpf11\\wpf11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|solutionrelative:wpf11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\wpf11\\view\\animatedimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8526A39-26D8-4EE3-A39F-E98E08856F86}|WPF11\\WPF11.csproj|solutionrelative:wpf11\\view\\animatedimage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,8 +29,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1098,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 1058,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,32 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "BeeHelper.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\WPF11\\View\\BeeHelper.cs",
               "RelativeDocumentMoniker": "WPF11\\View\\BeeHelper.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\WPF11\\View\\BeeHelper.cs",
               "RelativeToolTip": "WPF11\\View\\BeeHelper.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:22:57.104Z"
+              "WhenOpened": "2025-01-15T11:22:57.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BeeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\WPF11\\ViewModel\\BeeViewModel.cs",
               "RelativeDocumentMoniker": "WPF11\\ViewModel\\BeeViewModel.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\WPF11\\ViewModel\\BeeViewModel.cs",
               "RelativeToolTip": "WPF11\\ViewModel\\BeeViewModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T11:16:45.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\WPF11\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPF11\\MainWindow.xaml",
@@ -75,33 +76,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AnimatedImage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\WPF11\\View\\AnimatedImage.xaml.cs",
               "RelativeDocumentMoniker": "WPF11\\View\\AnimatedImage.xaml.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\WPF11\\View\\AnimatedImage.xaml.cs",
               "RelativeToolTip": "WPF11\\View\\AnimatedImage.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwDMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T10:24:43.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AnimatedImage.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\WPF11\\View\\AnimatedImage.xaml",
               "RelativeDocumentMoniker": "WPF11\\View\\AnimatedImage.xaml",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF11\\WPF11\\View\\AnimatedImage.xaml",
               "RelativeToolTip": "WPF11\\View\\AnimatedImage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-15T10:18:08.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:18:08.811Z"
             }
           ]
         },
         {
-          "DockedWidth": 326,
+          "DockedWidth": 366,
           "SelectedChildIndex": -1,
           "Children": [
             {

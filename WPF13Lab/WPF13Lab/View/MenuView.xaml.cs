@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPF13Lab.ViewModel;
 
 namespace WPF13Lab.View
 {
@@ -20,6 +21,7 @@ namespace WPF13Lab.View
     /// </summary>
     public partial class MenuView : Page
     {
+        GameViewModel viewModel;
 
         public MenuView()
         {
@@ -37,6 +39,12 @@ namespace WPF13Lab.View
         private void exitBtn_Click(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown(0);
+        }
+
+        private void SizeChangedHandler(object sender, SizeChangedEventArgs e)
+        {
+            viewModel = this.Resources["viewModel"] as GameViewModel;
+            viewModel.PlayAreaSize = new Size(e.NewSize.Width, e.NewSize.Height);
         }
     }
 }

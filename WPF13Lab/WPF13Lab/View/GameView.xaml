@@ -13,7 +13,7 @@
       Background="#1e1f21" Loaded="loaded" >
 
     <Page.Resources>
-        <viewmodel:GameViewModel x:Name="viewModel" x:Key="viewModel" />
+        <viewmodel:AGameViewModel x:Name="viewModel" x:Key="viewModel" />
 
         <Style TargetType="TextBlock" x:Key="TitleFB">
             <Setter Property="Foreground" Value="Snow" />
@@ -86,7 +86,16 @@
 
         <Border CornerRadius="20" Background="Black" BorderThickness="3" BorderBrush="#353638"
             Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="3" >
-            <Canvas SizeChanged="canvas_SizeChanged" />
+            <ItemsControl DataContext="{StaticResource viewModel}"
+                ItemsSource="{Binding Path=Sprites}"
+                Grid.Row="1">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas SizeChanged="SizeChangedHandler" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+
         </Border>
 
 

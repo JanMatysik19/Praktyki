@@ -4,11 +4,15 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:WPF13Lab.View"
+      xmlns:view="clr-namespace:WPF13Lab.View"
+      xmlns:viewmodel="clr-namespace:WPF13Lab.ViewModel"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800" 
       d:MinHeight="600" d:MinWidth="850" >
 
     <Page.Resources>
+        <viewmodel:GameViewModel x:Key="viewModel" />
+
         <ControlTemplate x:Key="MenuButtonTemplate" TargetType="Button">
             <StackPanel Width="Auto" Height="Auto" HorizontalAlignment="Center">
                 <VisualStateManager.VisualStateGroups>
@@ -34,23 +38,34 @@
             </StackPanel>
         </ControlTemplate>
     </Page.Resources>
-    
-    
 
-    <StackPanel>
-        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,120,0,0">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="Auto" />
-                <RowDefinition Height="20" />
-                <RowDefinition Height="Auto" />
-                <RowDefinition Height="10" />
-                <RowDefinition Height="Auto" />
-            </Grid.RowDefinitions>
 
-            <Image Source="../Assets/logo.png" Grid.Row="0" Width="550" />
+    <Grid>
+        <ItemsControl DataContext="{StaticResource viewModel}"
+          ItemsSource="{Binding Path=Sprites}"
+          Grid.Row="1">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Canvas SizeChanged="SizeChangedHandler" />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+        </ItemsControl>
 
-            <Button x:Name="startBtn" Click="startBtn_Click" HorizontalAlignment="Center" Grid.Row="2" Content="START" Template="{StaticResource MenuButtonTemplate}" />
-            <Button x:Name="exitBtn" Click="exitBtn_Click" HorizontalAlignment="Center" Grid.Row="4" Content="WYJDŹ" Template="{StaticResource MenuButtonTemplate}" />
-        </Grid>
-    </StackPanel>
+        <StackPanel>
+            <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,120,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="20" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="10" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Image Source="../Assets/logo.png" Grid.Row="0" Width="550" />
+
+                <Button x:Name="startBtn" Click="startBtn_Click" HorizontalAlignment="Center" Grid.Row="2" Content="START" Template="{StaticResource MenuButtonTemplate}" />
+                <Button x:Name="exitBtn" Click="exitBtn_Click" HorizontalAlignment="Center" Grid.Row="4" Content="WYJDŹ" Template="{StaticResource MenuButtonTemplate}" />
+            </Grid>
+        </StackPanel>
+    </Grid>
 </Page>

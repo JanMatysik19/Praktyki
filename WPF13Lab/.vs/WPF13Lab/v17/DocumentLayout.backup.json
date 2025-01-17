@@ -7,28 +7,36 @@
       "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\gameview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\viewmodel\\agameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\viewmodel\\agameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\viewmodel\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\viewmodel\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\model\\shipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\model\\shipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\model\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\model\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\model\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\model\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\view\\menuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\menuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\wpf13lab\\viewmodel\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\viewmodel\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\view\\shipcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\shipcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\wpf13lab\\view\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\view\\menuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\menuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\wpf13lab\\view\\starcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\starcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|c:\\users\\admin\\documents\\praktyki\\wpf13lab\\wpf13lab\\view\\starcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E63902BD-45B8-4187-8F85-E4349471577D}|WPF13Lab\\WPF13Lab.csproj|solutionrelative:wpf13lab\\view\\starcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,8 +45,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1098,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 319,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,27 +54,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\MenuView.xaml.cs",
-              "RelativeDocumentMoniker": "WPF13Lab\\View\\MenuView.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\MenuView.xaml.cs",
-              "RelativeToolTip": "WPF13Lab\\View\\MenuView.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GameView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\GameView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF13Lab\\View\\GameView.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\GameView.xaml.cs",
+              "RelativeToolTip": "WPF13Lab\\View\\GameView.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:41:42.236Z",
+              "WhenOpened": "2025-01-16T11:07:57.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuView.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\MenuView.xaml",
-              "RelativeDocumentMoniker": "WPF13Lab\\View\\MenuView.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\MenuView.xaml",
-              "RelativeToolTip": "WPF13Lab\\View\\MenuView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-16T13:17:15.755Z",
+              "DocumentIndex": 1,
+              "Title": "AGameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\ViewModel\\AGameViewModel.cs",
+              "RelativeDocumentMoniker": "WPF13Lab\\ViewModel\\AGameViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\ViewModel\\AGameViewModel.cs",
+              "RelativeToolTip": "WPF13Lab\\ViewModel\\AGameViewModel.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowCwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:19:11.771Z",
               "EditorCaption": ""
             },
             {
@@ -77,74 +86,96 @@
               "RelativeDocumentMoniker": "WPF13Lab\\ViewModel\\GameViewModel.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\ViewModel\\GameViewModel.cs",
               "RelativeToolTip": "WPF13Lab\\ViewModel\\GameViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T10:53:13.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\Model\\Ship.cs",
+              "RelativeDocumentMoniker": "WPF13Lab\\Model\\Ship.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\Model\\Ship.cs",
+              "RelativeToolTip": "WPF13Lab\\Model\\Ship.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:29:07.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\Model\\Bullet.cs",
+              "RelativeDocumentMoniker": "WPF13Lab\\Model\\Bullet.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\Model\\Bullet.cs",
+              "RelativeToolTip": "WPF13Lab\\Model\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:40:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ShipModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\Model\\ShipModel.cs",
+              "RelativeDocumentMoniker": "WPF13Lab\\Model\\ShipModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\Model\\ShipModel.cs",
+              "RelativeToolTip": "WPF13Lab\\Model\\ShipModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:22:03.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "GameView.xaml",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\GameView.xaml",
               "RelativeDocumentMoniker": "WPF13Lab\\View\\GameView.xaml",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\GameView.xaml",
               "RelativeToolTip": "WPF13Lab\\View\\GameView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-16T09:59:35.182Z",
+              "WhenOpened": "2025-01-17T06:58:13.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\GameView.xaml.cs",
-              "RelativeDocumentMoniker": "WPF13Lab\\View\\GameView.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\GameView.xaml.cs",
-              "RelativeToolTip": "WPF13Lab\\View\\GameView.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowDEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:07:57.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StarControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\StarControl.xaml.cs",
-              "RelativeDocumentMoniker": "WPF13Lab\\View\\StarControl.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\StarControl.xaml.cs",
-              "RelativeToolTip": "WPF13Lab\\View\\StarControl.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:51:37.857Z",
+              "DocumentIndex": 7,
+              "Title": "ShipControl.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\ShipControl.xaml",
+              "RelativeDocumentMoniker": "WPF13Lab\\View\\ShipControl.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\ShipControl.xaml",
+              "RelativeToolTip": "WPF13Lab\\View\\ShipControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T09:25:06.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "StarControl.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\StarControl.xaml",
-              "RelativeDocumentMoniker": "WPF13Lab\\View\\StarControl.xaml",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\StarControl.xaml",
-              "RelativeToolTip": "WPF13Lab\\View\\StarControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-16T09:39:46.089Z",
+              "Title": "MenuView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\MenuView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF13Lab\\View\\MenuView.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF13Lab\\WPF13Lab\\View\\MenuView.xaml.cs",
+              "RelativeToolTip": "WPF13Lab\\View\\MenuView.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:56:08.02Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 326,
+          "DockedWidth": 1105,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

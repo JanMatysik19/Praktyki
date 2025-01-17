@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPF13Lab.ViewModel;
 
 namespace WPF13Lab.View
 {
@@ -20,6 +21,7 @@ namespace WPF13Lab.View
     /// </summary>
     public partial class GameView : Page
     {
+        AGameViewModel viewModel = null;
         public GameView()
         {
             InitializeComponent();
@@ -40,8 +42,36 @@ namespace WPF13Lab.View
             base.OnKeyDown(e);
 
             if(e.Key == Key.Escape)
-                if (menu.Visibility == Visibility.Visible) menu.Visibility = Visibility.Hidden;
-                else menu.Visibility = Visibility.Visible;
+            {
+                if (menu.Visibility == Visibility.Visible)
+                {
+                    menu.Visibility = Visibility.Hidden;
+                    viewModel.HandleGamePauseChange(false);
+                }
+                else
+                {
+                    menu.Visibility = Visibility.Visible;
+                    viewModel.HandleGamePauseChange(true);
+                }
+            }
+
+
+            if(viewModel != null)
+            {
+                switch(e.Key)
+                {
+                    case Key.A:
+                        viewModel.HandleLeft();
+                        break;
+                    case Key.D:
+                        viewModel.HandleRight();
+                        break;
+                    case Key.Space:
+                    case Key.W:
+                        viewModel.HandleShoot();
+                        break;
+                }
+            }
         }
 
 
@@ -54,6 +84,7 @@ namespace WPF13Lab.View
         private void startBtn_Click(object sender, RoutedEventArgs e)
         {
             menu.Visibility = Visibility.Hidden;
+            viewModel.HandleGamePauseChange(false);
         }
 
         private void exitToMenuBtn_Click(object sender, RoutedEventArgs e)
@@ -64,6 +95,12 @@ namespace WPF13Lab.View
         private void exitBtn_Click(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown(0);
+        }
+
+        private void SizeChangedHandler(object sender, SizeChangedEventArgs e)
+        {
+            viewModel = this.Resources["viewModel"] as AGameViewModel;
+            viewModel.PlayAreaSize = new Size(e.NewSize.Width, e.NewSize.Height);
         }
     }
 }

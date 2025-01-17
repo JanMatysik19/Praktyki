@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WPF13Lab"
         xmlns:view="clr-namespace:WPF13Lab.View"
         mc:Ignorable="d"
-        Title="Invaders" Height="450" Width="800"
+        Title="Invaders" MinHeight="600" MinWidth="850"
         Background="Black" >
 
 

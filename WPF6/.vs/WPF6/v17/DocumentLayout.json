@@ -37,7 +37,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 907,
+          "DockedWidth": 1058,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "WPF6\\ComicQueryManager.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Praktyki\\WPF6\\WPF6\\ComicQueryManager.cs",
               "RelativeToolTip": "WPF6\\ComicQueryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T12:08:55.261Z",
               "IsPinned": true,
@@ -134,7 +134,7 @@
           ]
         },
         {
-          "DockedWidth": 517,
+          "DockedWidth": 366,
           "SelectedChildIndex": -1,
           "Children": [
             {

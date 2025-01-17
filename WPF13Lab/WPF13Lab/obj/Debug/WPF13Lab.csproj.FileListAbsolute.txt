@@ -20,3 +20,7 @@ C:\Users\admin\Documents\Praktyki\WPF13Lab\WPF13Lab\obj\Debug\View\GameView.g.cs
 C:\Users\admin\Documents\Praktyki\WPF13Lab\WPF13Lab\obj\Debug\View\StarControl.g.cs
 C:\Users\admin\Documents\Praktyki\WPF13Lab\WPF13Lab\obj\Debug\View\GameView.baml
 C:\Users\admin\Documents\Praktyki\WPF13Lab\WPF13Lab\obj\Debug\View\StarControl.baml
+C:\Users\admin\Documents\Praktyki\WPF13Lab\WPF13Lab\obj\Debug\View\ShipControl.g.cs
+C:\Users\admin\Documents\Praktyki\WPF13Lab\WPF13Lab\obj\Debug\View\ShipControl.baml
+C:\Users\admin\Documents\Praktyki\WPF13Lab\WPF13Lab\obj\Debug\View\BulletControl.g.cs
+C:\Users\admin\Documents\Praktyki\WPF13Lab\WPF13Lab\obj\Debug\View\BulletControl.baml
